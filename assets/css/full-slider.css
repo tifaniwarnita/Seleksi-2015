@@ -7,8 +7,9 @@
 html,
 body {
     height: 100%;
-    overflow-y: hidden;
+    /*overflow-y: hidden;*/
     font-family : 'Dosis', serif;
+    background-color: #000000;
 }
 
 .carousel,
