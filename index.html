@@ -142,22 +142,29 @@
 		            <span class="icon-next"></span>
 		        </a>
 		        <div class="carousel-caption">
-					<a href="#kucing" class="smoothScroll"><img src="assets/img/down-arrow.gif" alt="kucing so cute" height="68" width="39"></a>
+					<a href="#meong" class="smoothScroll"><img src="assets/img/down-arrow.gif" alt="kucing so cute" height="54" width="50"></a>
 					<br>
 		        </div>
 		    </div>
 
 
 		    <!-- Transition Section -->
-			<div class="fill" data-anchor-target="#myCarousel"
+			<!--<div data-anchor-target="#myCarousel"
 			data-bottom-top="transform: translate3d(0px, 50%, 0px);"
-			data-top-bottom="transform: translate3d(0px, -50%, 0px);">
-				<div class="container opening-content black" id="meong">
+			data-top-bottom="transform: translate3d(0px, -50%, 0px);">-->
+			<div id="meong" class="fill black-color">
+				<div class="separator purple marquee" id="sep" data-center="opacity: 1" data-300="opacity: 0" data-anchor-target="#sep">
 				</div>
+				<br><br><br><br><br><br><br><br>
+				<h2>HARITS isi sesuatu di sini</h2>
+				<div style="text-align:right;">
+					<div style="margin-right:10px;"><a href="#kucing" class="smoothScroll" ><img src="assets/img/down-arrow.gif" alt="kucing so cute" height="54" width="50"></a></div>
+					<br>
+		        </div>
 			</div>
 
 		    <div id="kucing" class="fill yellow">	
-		    BUBUBUBABABAA
+		    <marquee>BUBUBUBABABAA</marquee>
 		    	<div id="mapcobacoba" style="height: 500px; min-width: 310px; max-width: 480px; margin: 0 auto"></div>
 EBBEBEEBE
 MIWMIWMIW
@@ -204,7 +211,7 @@ SCROLL!
 		<br>
 		<br>	
 			<div id="indonesia-map" style="height: 500px; min-width: 310px; max-width: 800px; margin: 0 auto;"></div>
-		</div>	
+		</div>
 		</section>
 
 	</main>
@@ -235,262 +242,16 @@ SCROLL!
     <script src="assets/js/smoothscroll.js"></script>
 
     <!-- Script to Activate the Highmaps -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/proj4js/2.2.2/proj4.js"></script>
     <script src="assets/js/high/highmaps.js"></script>
 	<script src="assets/js/high/modules/data.js"></script>
-	<script src="assets/js/indonesia.js"></script>
+	<script src="assets/js/high/modules/exporting.js"></script>
+	<script src="assets/js/data/data.js"></script>
+	<script src="assets/js/data/tingkat-pendidikan.js"></script>
+	<script src="assets/js/data/tp.js"></script>
 	<script src="http://code.highcharts.com/mapdata/custom/europe.js"></script>
 	<script src="http://code.highcharts.com/mapdata/countries/id/id-all.js"></script>
-
-	<script type="text/javascript">
-		$(function () {
-			//Instanciate the map
-			var data = [
-        {
-            "hc-key": "id-3700",
-            "value": 0
-        },
-        {
-            "hc-key": "id-ac",
-            "value": 1
-        },
-        {
-            "hc-key": "id-ki",
-            "value": 2
-        },
-        {
-            "hc-key": "id-jt",
-            "value": 3
-        },
-        {
-            "hc-key": "id-be",
-            "value": 4
-        },
-        {
-            "hc-key": "id-bt",
-            "value": 5
-        },
-        {
-            "hc-key": "id-kb",
-            "value": 6
-        },
-        {
-            "hc-key": "id-bb",
-            "value": 7
-        },
-        {
-            "hc-key": "id-ba",
-            "value": 8
-        },
-        {
-            "hc-key": "id-ji",
-            "value": 9
-        },
-        {
-            "hc-key": "id-ks",
-            "value": 10
-        },
-        {
-            "hc-key": "id-nt",
-            "value": 11
-        },
-        {
-            "hc-key": "id-se",
-            "value": 12
-        },
-        {
-            "hc-key": "id-kr",
-            "value": 13
-        },
-        {
-            "hc-key": "id-ib",
-            "value": 14
-        },
-        {
-            "hc-key": "id-su",
-            "value": 15
-        },
-        {
-            "hc-key": "id-ri",
-            "value": 16
-        },
-        {
-            "hc-key": "id-sw",
-            "value": 17
-        },
-        {
-            "hc-key": "id-la",
-            "value": 18
-        },
-        {
-            "hc-key": "id-sb",
-            "value": 19
-        },
-        {
-            "hc-key": "id-ma",
-            "value": 20
-        },
-        {
-            "hc-key": "id-nb",
-            "value": 21
-        },
-        {
-            "hc-key": "id-sg",
-            "value": 22
-        },
-        {
-            "hc-key": "id-st",
-            "value": 23
-        },
-        {
-            "hc-key": "id-pa",
-            "value": 24
-        },
-        {
-            "hc-key": "id-1024",
-            "value": 25
-        },
-        {
-            "hc-key": "id-jk",
-            "value": 26
-        },
-        {
-            "hc-key": "id-jr",
-            "value": 27
-        },
-        {
-            "hc-key": "id-go",
-            "value": 28
-        },
-        {
-            "hc-key": "id-yo",
-            "value": 29
-        },
-        {
-            "hc-key": "id-kt",
-            "value": 30
-        },
-        {
-            "hc-key": "id-sl",
-            "value": 31
-        },
-        {
-            "hc-key": "id-sr",
-            "value": 32
-        },
-        {
-            "hc-key": "id-ja",
-            "value": 33
-        }
-    ];
-
-			$('#indonesia-map').highcharts('Map', {
-				chart: {
-					animation: true,
-					backgroundColor: '#FFFFFF',
-					borderColor: '#78C49F',
-		            spacingBottom: 20
-				},
-
-				title: {
-					text: 'Tingkat Pendidikan di Indonesia'
-				},
-
-				mapNavigation: {
-		            enabled: true,
-		            buttonOptions: {
-		                verticalAlign: 'bottom'
-		            }
-		        },
-
-				colors: ['rgba(19,64,117,0.05)', 'rgba(19,64,117,0.2)', 'rgba(19,64,117,0.4)',
-                    'rgba(19,64,117,0.5)', 'rgba(19,64,117,0.6)', 'rgba(19,64,117,0.8)', 'rgba(19,64,117,1)'],
-
-				legend: {
-					enabled: true,
-                    title: {
-                        text: 'Kucing Terbang',
-                        style: {
-                            color: (Highcharts.theme && Highcharts.theme.textColor) || 'black'
-                        }
-                    },
-                    align: 'left',
-                    verticalAlign: 'bottom',
-                    floating: true,
-                    layout: 'vertical',
-                    valueDecimals: 0,
-                    backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || 'rgba(255, 255, 255, 0.85)',
-                    symbolRadius: 0,
-                    symbolHeight: 14
-                },
-
-                colorAxis: {
-                    dataClasses: [{
-                        to: 5
-                    }, {
-                        from: 5,
-                        to: 10
-                    }, {
-                        from: 10,
-                        to: 15
-                    }, {
-                        from: 15,
-                        to: 20
-                    }, {
-                        from: 20,
-                        to: 25
-                    }, {
-                        from: 25,
-                        to: 30
-                    }, {
-                        from: 30
-                    }]
-                },
-
-				plotOptions: {
-					map: {
-						allAreas: false,
-						joinBy: 'hc-key',
-						dataLabels: {
-							enabled: true,
-							color: 'white',
-							format: '{point.name}',
-							style: {
-								fontWeight: 'bold'
-							}
-						},
-						mapData: Highcharts.maps['countries/id/id-all'],
-						/*tooltip: {
-		                    headerFormat: '',
-		                    pointFormat: '{point.name}: <b>{series.name}</b>'
-		                }*/
-		                tooltip: {
-			                formatter: function(){
-			                    var s = this.key + '<br/>';
-			                    s += 'Name:' + this.point.name + '<br/>';
-			                    s += 'Value:' + this.point.value;
-			                    return s;
-			            },
-                 },
-					}
-				},
-
-				series : [{
-		            data : data,
-		            name: 'Random data',
-		            states: {
-		                hover: {
-		                    color: '#BADA55'
-		                }
-		            },
-		            dataLabels: {
-		                enabled: true,
-		                format: '{point.name}'
-		            }
-		        }]
-
-			});
-		});
-	</script>
+	<script src="http://code.highcharts.com/mapdata/countries/us/us-all.js"></script>
 
 	 <script type="text/javascript">
 		$(function () {
