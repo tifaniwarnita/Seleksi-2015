@@ -1,5 +1,5 @@
 $(function () {
-	overviewMap = [
+	IPM = [
 		{	"kode_provinsi":"id-ac",
 			"nama_provinsi":"Prov. Nanggroe Aceh Darussalam",
 			"value":71.7
