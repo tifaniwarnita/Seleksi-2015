@@ -77,8 +77,17 @@
 .dark-red {
     background-color: #C45E5E;
 }
+
 .purple {
     background-color: #55145C;
+}
+
+.dark-purple {
+    background-color: #380427;
+}
+
+.brown {
+    background-color: #381904;
 }
 
 .opening-content {
@@ -146,4 +155,9 @@
     position: relative;
     top: 50%;
     transform: translateY(-50%);
+}
+#overview {
+    color: #FFFFFF; 
+    font-size: 1.5vw;
+    font-family: "Dosis";
 }

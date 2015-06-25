@@ -48,7 +48,7 @@ body{
 }
 
 #navigationMenu a{
-	background:url('../img/navigation.jpg') no-repeat;
+	background:url('../img/navigation.png') no-repeat;
 
 	height:39px;
 	width:38px;
@@ -73,9 +73,9 @@ body{
 #navigationMenu .home {	background-position:0 0;}
 #navigationMenu .home:hover {	background-position:0 -39px;}
 #navigationMenu .home span{
-	background-color:#7da315;
-	color:#3d4f0c;
-	text-shadow:1px 1px 0 #99bf31;
+	background-color:#FF8979;
+	color:#240C15;
+	/*text-shadow:1px 1px 0 #C45E5E;*/
 }
 
 /* Blue Button */
@@ -83,9 +83,9 @@ body{
 #navigationMenu .about { background-position:-38px 0;}
 #navigationMenu .about:hover { background-position:-38px -39px;}
 #navigationMenu .about span{
-	background-color:#1e8bb4;
-	color:#223a44;
-	text-shadow:1px 1px 0 #44a8d0;
+	background-color:#5F8BC4;
+	color:#292220;
+	/*text-shadow:1px 1px 0 #3E4095;*/
 }
 
 /* Orange Button */
@@ -93,9 +93,9 @@ body{
 #navigationMenu .services { background-position:-76px 0;}
 #navigationMenu .services:hover { background-position:-76px -39px;}
 #navigationMenu .services span{
-	background-color:#c86c1f;
-	color:#5a3517;
-	text-shadow:1px 1px 0 #d28344;
+	background-color:#78C49F;
+	color:#064024;
+	/*text-shadow:1px 1px 0 #2A5C44;*/
 }
 
 /* Yellow Button */
