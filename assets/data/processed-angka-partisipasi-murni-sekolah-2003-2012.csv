@@ -1,0 +1,991 @@
+kode_provinsi,nama_provinsi,tahun,tingkat_pendidikan,persen_angka_partisipasi_murni
+11,"Prov. Nanggroe Aceh Darussalam",2003,"SD/MI",95.36
+11,"Prov. Nanggroe Aceh Darussalam",2003,"SM/MA",61.63
+11,"Prov. Nanggroe Aceh Darussalam",2003,"SMP/Mts",78.74
+11,"Prov. Nanggroe Aceh Darussalam",2004,"SD/MI",95.88
+11,"Prov. Nanggroe Aceh Darussalam",2004,"SM/MA",62.04
+11,"Prov. Nanggroe Aceh Darussalam",2004,"SMP/Mts",79.98
+11,"Prov. Nanggroe Aceh Darussalam",2005,"SD/MI",
+11,"Prov. Nanggroe Aceh Darussalam",2005,"SM/MA",
+11,"Prov. Nanggroe Aceh Darussalam",2005,"SMP/Mts",
+11,"Prov. Nanggroe Aceh Darussalam",2006,"SD/MI",95.48
+11,"Prov. Nanggroe Aceh Darussalam",2006,"SM/MA",57.07
+11,"Prov. Nanggroe Aceh Darussalam",2006,"SMP/Mts",78.39
+11,"Prov. Nanggroe Aceh Darussalam",2007,"SD/MI/Paket/A",95.75
+11,"Prov. Nanggroe Aceh Darussalam",2007,"SM/SMK/MA/Paket/C",61.95
+11,"Prov. Nanggroe Aceh Darussalam",2007,"SMP/Mts/Paket/B",76.44
+11,"Prov. Nanggroe Aceh Darussalam",2008,"SD/MI/Paket/A",96.05
+11,"Prov. Nanggroe Aceh Darussalam",2008,"SM/SMK/MA/Paket/C",62.19
+11,"Prov. Nanggroe Aceh Darussalam",2008,"SMP/Mts/Paket/B",76.58
+11,"Prov. Nanggroe Aceh Darussalam",2009,"SD/MI/Paket/A",96.95
+11,"Prov. Nanggroe Aceh Darussalam",2009,"SM/SMK/MA/Paket/C",62.12
+11,"Prov. Nanggroe Aceh Darussalam",2009,"SMP/Mts/Paket/B",77.4
+11,"Prov. Nanggroe Aceh Darussalam",2010,"SD/MI/Paket/A",97.32
+11,"Prov. Nanggroe Aceh Darussalam",2010,"SM/SMK/MA/Paket/C",62.42
+11,"Prov. Nanggroe Aceh Darussalam",2010,"SMP/Mts/Paket/B",78.58
+11,"Prov. Nanggroe Aceh Darussalam",2011,"SD/MI/Paket/A",92.57
+11,"Prov. Nanggroe Aceh Darussalam",2011,"SM/SMK/MA/Paket/C",61.43
+11,"Prov. Nanggroe Aceh Darussalam",2011,"SMP/Mts/Paket/B",74.76
+11,"Prov. Nanggroe Aceh Darussalam",2012,"SD/MI/Paket/A",94.6
+11,"Prov. Nanggroe Aceh Darussalam",2012,"SM/SMK/MA/Paket/C",61.71
+11,"Prov. Nanggroe Aceh Darussalam",2012,"SMP/Mts/Paket/B",78.84
+12,"Prov. Sumatera Utara",2003,"SD/MI",94.62
+12,"Prov. Sumatera Utara",2003,"SM/MA",53.03
+12,"Prov. Sumatera Utara",2003,"SMP/Mts",72.95
+12,"Prov. Sumatera Utara",2004,"SD/MI",93.61
+12,"Prov. Sumatera Utara",2004,"SM/MA",56.65
+12,"Prov. Sumatera Utara",2004,"SMP/Mts",73.02
+12,"Prov. Sumatera Utara",2005,"SD/MI",93.98
+12,"Prov. Sumatera Utara",2005,"SM/MA",53.5
+12,"Prov. Sumatera Utara",2005,"SMP/Mts",72.79
+12,"Prov. Sumatera Utara",2006,"SD/MI",93.96
+12,"Prov. Sumatera Utara",2006,"SM/MA",54.14
+12,"Prov. Sumatera Utara",2006,"SMP/Mts",73.08
+12,"Prov. Sumatera Utara",2007,"SD/MI/Paket/A",93.96
+12,"Prov. Sumatera Utara",2007,"SM/SMK/MA/Paket/C",54.95
+12,"Prov. Sumatera Utara",2007,"SMP/Mts/Paket/B",73.61
+12,"Prov. Sumatera Utara",2008,"SD/MI/Paket/A",94.26
+12,"Prov. Sumatera Utara",2008,"SM/SMK/MA/Paket/C",55.16
+12,"Prov. Sumatera Utara",2008,"SMP/Mts/Paket/B",74.17
+12,"Prov. Sumatera Utara",2009,"SD/MI/Paket/A",94.46
+12,"Prov. Sumatera Utara",2009,"SM/SMK/MA/Paket/C",55.3
+12,"Prov. Sumatera Utara",2009,"SMP/Mts/Paket/B",74.21
+12,"Prov. Sumatera Utara",2010,"SD/MI/Paket/A",95.33
+12,"Prov. Sumatera Utara",2010,"SM/SMK/MA/Paket/C",55.72
+12,"Prov. Sumatera Utara",2010,"SMP/Mts/Paket/B",74.76
+12,"Prov. Sumatera Utara",2011,"SD/MI/Paket/A",91.46
+12,"Prov. Sumatera Utara",2011,"SM/SMK/MA/Paket/C",57.83
+12,"Prov. Sumatera Utara",2011,"SMP/Mts/Paket/B",67.96
+12,"Prov. Sumatera Utara",2012,"SD/MI/Paket/A",93.26
+12,"Prov. Sumatera Utara",2012,"SM/SMK/MA/Paket/C",60.02
+12,"Prov. Sumatera Utara",2012,"SMP/Mts/Paket/B",70.51
+13,"Prov. Sumatera Barat",2003,"SD/MI",92.59
+13,"Prov. Sumatera Barat",2003,"SM/MA",49.88
+13,"Prov. Sumatera Barat",2003,"SMP/Mts",66000
+13,"Prov. Sumatera Barat",2004,"SD/MI",93.64
+13,"Prov. Sumatera Barat",2004,"SM/MA",53.13
+13,"Prov. Sumatera Barat",2004,"SMP/Mts",69.55
+13,"Prov. Sumatera Barat",2005,"SD/MI",93.65
+13,"Prov. Sumatera Barat",2005,"SM/MA",53.36
+13,"Prov. Sumatera Barat",2005,"SMP/Mts",68.77
+13,"Prov. Sumatera Barat",2006,"SD/MI",94.17
+13,"Prov. Sumatera Barat",2006,"SM/MA",51.05
+13,"Prov. Sumatera Barat",2006,"SMP/Mts",67.77
+13,"Prov. Sumatera Barat",2007,"SD/MI/Paket/A",94.45
+13,"Prov. Sumatera Barat",2007,"SM/SMK/MA/Paket/C",54.23
+13,"Prov. Sumatera Barat",2007,"SMP/Mts/Paket/B",67.33
+13,"Prov. Sumatera Barat",2008,"SD/MI/Paket/A",94.66
+13,"Prov. Sumatera Barat",2008,"SM/SMK/MA/Paket/C",54.68
+13,"Prov. Sumatera Barat",2008,"SMP/Mts/Paket/B",67.63
+13,"Prov. Sumatera Barat",2009,"SD/MI/Paket/A",94.75
+13,"Prov. Sumatera Barat",2009,"SM/SMK/MA/Paket/C",54.5
+13,"Prov. Sumatera Barat",2009,"SMP/Mts/Paket/B",67.61
+13,"Prov. Sumatera Barat",2010,"SD/MI/Paket/A",95.51
+13,"Prov. Sumatera Barat",2010,"SM/SMK/MA/Paket/C",55.06
+13,"Prov. Sumatera Barat",2010,"SMP/Mts/Paket/B",68.22
+13,"Prov. Sumatera Barat",2011,"SD/MI/Paket/A",93.47
+13,"Prov. Sumatera Barat",2011,"SM/SMK/MA/Paket/C",54.05
+13,"Prov. Sumatera Barat",2011,"SMP/Mts/Paket/B",67.1
+13,"Prov. Sumatera Barat",2012,"SD/MI/Paket/A",95.74
+13,"Prov. Sumatera Barat",2012,"SM/SMK/MA/Paket/C",55.54
+13,"Prov. Sumatera Barat",2012,"SMP/Mts/Paket/B",70.03
+14,"Prov. Riau",2003,"SD/MI",94.13
+14,"Prov. Riau",2003,"SM/MA",47.25
+14,"Prov. Riau",2003,"SMP/Mts",67.19
+14,"Prov. Riau",2004,"SD/MI",94.64
+14,"Prov. Riau",2004,"SM/MA",47.73
+14,"Prov. Riau",2004,"SMP/Mts",69.65
+14,"Prov. Riau",2005,"SD/MI",94.95
+14,"Prov. Riau",2005,"SM/MA",50.51
+14,"Prov. Riau",2005,"SMP/Mts",72.5
+14,"Prov. Riau",2006,"SD/MI",94.72
+14,"Prov. Riau",2006,"SM/MA",49.43
+14,"Prov. Riau",2006,"SMP/Mts",72.93
+14,"Prov. Riau",2007,"SD/MI/Paket/A",94.8
+14,"Prov. Riau",2007,"SM/SMK/MA/Paket/C",51.54
+14,"Prov. Riau",2007,"SMP/Mts/Paket/B",70000
+14,"Prov. Riau",2008,"SD/MI/Paket/A",95.04
+14,"Prov. Riau",2008,"SM/SMK/MA/Paket/C",51.84
+14,"Prov. Riau",2008,"SMP/Mts/Paket/B",70.66
+14,"Prov. Riau",2009,"SD/MI/Paket/A",95.52
+14,"Prov. Riau",2009,"SM/SMK/MA/Paket/C",51.78
+14,"Prov. Riau",2009,"SMP/Mts/Paket/B",70.57
+14,"Prov. Riau",2010,"SD/MI/Paket/A",96.24
+14,"Prov. Riau",2010,"SM/SMK/MA/Paket/C",52.24
+14,"Prov. Riau",2010,"SMP/Mts/Paket/B",71.36
+14,"Prov. Riau",2011,"SD/MI/Paket/A",91.67
+14,"Prov. Riau",2011,"SM/SMK/MA/Paket/C",53.07
+14,"Prov. Riau",2011,"SMP/Mts/Paket/B",65.98
+14,"Prov. Riau",2012,"SD/MI/Paket/A",92.99
+14,"Prov. Riau",2012,"SM/SMK/MA/Paket/C",52.39
+14,"Prov. Riau",2012,"SMP/Mts/Paket/B",70.22
+15,"Prov. Jambi",2003,"SD/MI",93.78
+15,"Prov. Jambi",2003,"SM/MA",40.68
+15,"Prov. Jambi",2003,"SMP/Mts",61.3
+15,"Prov. Jambi",2004,"SD/MI",93.46
+15,"Prov. Jambi",2004,"SM/MA",42.24
+15,"Prov. Jambi",2004,"SMP/Mts",65.69
+15,"Prov. Jambi",2005,"SD/MI",93.52
+15,"Prov. Jambi",2005,"SM/MA",39.54
+15,"Prov. Jambi",2005,"SMP/Mts",64.44
+15,"Prov. Jambi",2006,"SD/MI",94.36
+15,"Prov. Jambi",2006,"SM/MA",40.95
+15,"Prov. Jambi",2006,"SMP/Mts",65.32
+15,"Prov. Jambi",2007,"SD/MI/Paket/A",93.88
+15,"Prov. Jambi",2007,"SM/SMK/MA/Paket/C",44.41
+15,"Prov. Jambi",2007,"SMP/Mts/Paket/B",65.88
+15,"Prov. Jambi",2008,"SD/MI/Paket/A",94.31
+15,"Prov. Jambi",2008,"SM/SMK/MA/Paket/C",44.81
+15,"Prov. Jambi",2008,"SMP/Mts/Paket/B",66.31
+15,"Prov. Jambi",2009,"SD/MI/Paket/A",95.05
+15,"Prov. Jambi",2009,"SM/SMK/MA/Paket/C",44.71
+15,"Prov. Jambi",2009,"SMP/Mts/Paket/B",66.42
+15,"Prov. Jambi",2010,"SD/MI/Paket/A",95.61
+15,"Prov. Jambi",2010,"SM/SMK/MA/Paket/C",45.31
+15,"Prov. Jambi",2010,"SMP/Mts/Paket/B",66.91
+15,"Prov. Jambi",2011,"SD/MI/Paket/A",92.69
+15,"Prov. Jambi",2011,"SM/SMK/MA/Paket/C",48.55
+15,"Prov. Jambi",2011,"SMP/Mts/Paket/B",66.54
+15,"Prov. Jambi",2012,"SD/MI/Paket/A",94.15
+15,"Prov. Jambi",2012,"SM/SMK/MA/Paket/C",45.42
+15,"Prov. Jambi",2012,"SMP/Mts/Paket/B",69.48
+16,"Prov. Sumatera Selatan",2003,"SD/MI",92.36
+16,"Prov. Sumatera Selatan",2003,"SM/MA",35.73
+16,"Prov. Sumatera Selatan",2003,"SMP/Mts",59.41
+16,"Prov. Sumatera Selatan",2004,"SD/MI",93.13
+16,"Prov. Sumatera Selatan",2004,"SM/MA",39.48
+16,"Prov. Sumatera Selatan",2004,"SMP/Mts",64.81
+16,"Prov. Sumatera Selatan",2005,"SD/MI",94.14
+16,"Prov. Sumatera Selatan",2005,"SM/MA",42.54
+16,"Prov. Sumatera Selatan",2005,"SMP/Mts",64.94
+16,"Prov. Sumatera Selatan",2006,"SD/MI",93.01
+16,"Prov. Sumatera Selatan",2006,"SM/MA",43.15
+16,"Prov. Sumatera Selatan",2006,"SMP/Mts",68.01
+16,"Prov. Sumatera Selatan",2007,"SD/MI/Paket/A",92.81
+16,"Prov. Sumatera Selatan",2007,"SM/SMK/MA/Paket/C",42.72
+16,"Prov. Sumatera Selatan",2007,"SMP/Mts/Paket/B",65.15
+16,"Prov. Sumatera Selatan",2008,"SD/MI/Paket/A",92.97
+16,"Prov. Sumatera Selatan",2008,"SM/SMK/MA/Paket/C",43.05
+16,"Prov. Sumatera Selatan",2008,"SMP/Mts/Paket/B",65.87
+16,"Prov. Sumatera Selatan",2009,"SD/MI/Paket/A",93.61
+16,"Prov. Sumatera Selatan",2009,"SM/SMK/MA/Paket/C",43.01
+16,"Prov. Sumatera Selatan",2009,"SMP/Mts/Paket/B",65.86
+16,"Prov. Sumatera Selatan",2010,"SD/MI/Paket/A",94.17
+16,"Prov. Sumatera Selatan",2010,"SM/SMK/MA/Paket/C",43.49
+16,"Prov. Sumatera Selatan",2010,"SMP/Mts/Paket/B",66.27
+16,"Prov. Sumatera Selatan",2011,"SD/MI/Paket/A",89.79
+16,"Prov. Sumatera Selatan",2011,"SM/SMK/MA/Paket/C",45.34
+16,"Prov. Sumatera Selatan",2011,"SMP/Mts/Paket/B",64.12
+16,"Prov. Sumatera Selatan",2012,"SD/MI/Paket/A",92.67
+16,"Prov. Sumatera Selatan",2012,"SM/SMK/MA/Paket/C",48.98
+16,"Prov. Sumatera Selatan",2012,"SMP/Mts/Paket/B",67.75
+17,"Prov. Bengkulu",2003,"SD/MI",91.99
+17,"Prov. Bengkulu",2003,"SM/MA",42.54
+17,"Prov. Bengkulu",2003,"SMP/Mts",60.44
+17,"Prov. Bengkulu",2004,"SD/MI",94.72
+17,"Prov. Bengkulu",2004,"SM/MA",49.01
+17,"Prov. Bengkulu",2004,"SMP/Mts",67.02
+17,"Prov. Bengkulu",2005,"SD/MI",92.64
+17,"Prov. Bengkulu",2005,"SM/MA",45.41
+17,"Prov. Bengkulu",2005,"SMP/Mts",61.87
+17,"Prov. Bengkulu",2006,"SD/MI",93.89
+17,"Prov. Bengkulu",2006,"SM/MA",47.1
+17,"Prov. Bengkulu",2006,"SMP/Mts",66.73
+17,"Prov. Bengkulu",2007,"SD/MI/Paket/A",94.3
+17,"Prov. Bengkulu",2007,"SM/SMK/MA/Paket/C",48.67
+17,"Prov. Bengkulu",2007,"SMP/Mts/Paket/B",68.92
+17,"Prov. Bengkulu",2008,"SD/MI/Paket/A",94.4
+17,"Prov. Bengkulu",2008,"SM/SMK/MA/Paket/C",48.67
+17,"Prov. Bengkulu",2008,"SMP/Mts/Paket/B",69.7
+17,"Prov. Bengkulu",2009,"SD/MI/Paket/A",94.98
+17,"Prov. Bengkulu",2009,"SM/SMK/MA/Paket/C",48.99
+17,"Prov. Bengkulu",2009,"SMP/Mts/Paket/B",69.84
+17,"Prov. Bengkulu",2010,"SD/MI/Paket/A",95.53
+17,"Prov. Bengkulu",2010,"SM/SMK/MA/Paket/C",49.97
+17,"Prov. Bengkulu",2010,"SMP/Mts/Paket/B",70.39
+17,"Prov. Bengkulu",2011,"SD/MI/Paket/A",92.75
+17,"Prov. Bengkulu",2011,"SM/SMK/MA/Paket/C",49.91
+17,"Prov. Bengkulu",2011,"SMP/Mts/Paket/B",68.55
+17,"Prov. Bengkulu",2012,"SD/MI/Paket/A",94.04
+17,"Prov. Bengkulu",2012,"SM/SMK/MA/Paket/C",49.59
+17,"Prov. Bengkulu",2012,"SMP/Mts/Paket/B",71.47
+18,"Prov. Lampung",2003,"SD/MI",92.06
+18,"Prov. Lampung",2003,"SM/MA",35.81
+18,"Prov. Lampung",2003,"SMP/Mts",63.24
+18,"Prov. Lampung",2004,"SD/MI",92.73
+18,"Prov. Lampung",2004,"SM/MA",35.66
+18,"Prov. Lampung",2004,"SMP/Mts",63.65
+18,"Prov. Lampung",2005,"SD/MI",93.54
+18,"Prov. Lampung",2005,"SM/MA",39.64
+18,"Prov. Lampung",2005,"SMP/Mts",64.91
+18,"Prov. Lampung",2006,"SD/MI",93.94
+18,"Prov. Lampung",2006,"SM/MA",39.87
+18,"Prov. Lampung",2006,"SMP/Mts",66.65
+18,"Prov. Lampung",2007,"SD/MI/Paket/A",94.04
+18,"Prov. Lampung",2007,"SM/SMK/MA/Paket/C",40.72
+18,"Prov. Lampung",2007,"SMP/Mts/Paket/B",68.47
+18,"Prov. Lampung",2008,"SD/MI/Paket/A",94.28
+18,"Prov. Lampung",2008,"SM/SMK/MA/Paket/C",41.05
+18,"Prov. Lampung",2008,"SMP/Mts/Paket/B",68.94
+18,"Prov. Lampung",2009,"SD/MI/Paket/A",94.79
+18,"Prov. Lampung",2009,"SM/SMK/MA/Paket/C",41.43
+18,"Prov. Lampung",2009,"SMP/Mts/Paket/B",69.17
+18,"Prov. Lampung",2010,"SD/MI/Paket/A",95.2
+18,"Prov. Lampung",2010,"SM/SMK/MA/Paket/C",41.97
+18,"Prov. Lampung",2010,"SMP/Mts/Paket/B",69.61
+18,"Prov. Lampung",2011,"SD/MI/Paket/A",91.47
+18,"Prov. Lampung",2011,"SM/SMK/MA/Paket/C",45.06
+18,"Prov. Lampung",2011,"SMP/Mts/Paket/B",66.56
+18,"Prov. Lampung",2012,"SD/MI/Paket/A",93.48
+18,"Prov. Lampung",2012,"SM/SMK/MA/Paket/C",45.56
+18,"Prov. Lampung",2012,"SMP/Mts/Paket/B",71.64
+19,"Prov. Kepulauan Bangka Belitung",2003,"SD/MI",91.69
+19,"Prov. Kepulauan Bangka Belitung",2003,"SM/MA",33.8
+19,"Prov. Kepulauan Bangka Belitung",2003,"SMP/Mts",50.61
+19,"Prov. Kepulauan Bangka Belitung",2004,"SD/MI",90.02
+19,"Prov. Kepulauan Bangka Belitung",2004,"SM/MA",38.15
+19,"Prov. Kepulauan Bangka Belitung",2004,"SMP/Mts",56.38
+19,"Prov. Kepulauan Bangka Belitung",2005,"SD/MI",92000
+19,"Prov. Kepulauan Bangka Belitung",2005,"SM/MA",39.57
+19,"Prov. Kepulauan Bangka Belitung",2005,"SMP/Mts",61.61
+19,"Prov. Kepulauan Bangka Belitung",2006,"SD/MI",91.51
+19,"Prov. Kepulauan Bangka Belitung",2006,"SM/MA",34.84
+19,"Prov. Kepulauan Bangka Belitung",2006,"SMP/Mts",55.3
+19,"Prov. Kepulauan Bangka Belitung",2007,"SD/MI/Paket/A",91.59
+19,"Prov. Kepulauan Bangka Belitung",2007,"SM/SMK/MA/Paket/C",37.53
+19,"Prov. Kepulauan Bangka Belitung",2007,"SMP/Mts/Paket/B",52.58
+19,"Prov. Kepulauan Bangka Belitung",2008,"SD/MI/Paket/A",91.77
+19,"Prov. Kepulauan Bangka Belitung",2008,"SM/SMK/MA/Paket/C",37.72
+19,"Prov. Kepulauan Bangka Belitung",2008,"SMP/Mts/Paket/B",53.11
+19,"Prov. Kepulauan Bangka Belitung",2009,"SD/MI/Paket/A",92.52
+19,"Prov. Kepulauan Bangka Belitung",2009,"SM/SMK/MA/Paket/C",38.13
+19,"Prov. Kepulauan Bangka Belitung",2009,"SMP/Mts/Paket/B",53.1
+19,"Prov. Kepulauan Bangka Belitung",2010,"SD/MI/Paket/A",92.86
+19,"Prov. Kepulauan Bangka Belitung",2010,"SM/SMK/MA/Paket/C",38.69
+19,"Prov. Kepulauan Bangka Belitung",2010,"SMP/Mts/Paket/B",53.58
+19,"Prov. Kepulauan Bangka Belitung",2011,"SD/MI/Paket/A",91.12
+19,"Prov. Kepulauan Bangka Belitung",2011,"SM/SMK/MA/Paket/C",40.91
+19,"Prov. Kepulauan Bangka Belitung",2011,"SMP/Mts/Paket/B",60.19
+19,"Prov. Kepulauan Bangka Belitung",2012,"SD/MI/Paket/A",94.22
+19,"Prov. Kepulauan Bangka Belitung",2012,"SM/SMK/MA/Paket/C",42.12
+19,"Prov. Kepulauan Bangka Belitung",2012,"SMP/Mts/Paket/B",62000
+21,"Prov. Kepulauan Riau",2003,"SD/MI",
+21,"Prov. Kepulauan Riau",2003,"SM/MA",
+21,"Prov. Kepulauan Riau",2003,"SMP/Mts",
+21,"Prov. Kepulauan Riau",2004,"SD/MI",
+21,"Prov. Kepulauan Riau",2004,"SM/MA",
+21,"Prov. Kepulauan Riau",2004,"SMP/Mts",
+21,"Prov. Kepulauan Riau",2005,"SD/MI",91.65
+21,"Prov. Kepulauan Riau",2005,"SM/MA",51.06
+21,"Prov. Kepulauan Riau",2005,"SMP/Mts",66.48
+21,"Prov. Kepulauan Riau",2006,"SD/MI",93.66
+21,"Prov. Kepulauan Riau",2006,"SM/MA",52.13
+21,"Prov. Kepulauan Riau",2006,"SMP/Mts",72.01
+21,"Prov. Kepulauan Riau",2007,"SD/MI/Paket/A",93.5
+21,"Prov. Kepulauan Riau",2007,"SM/SMK/MA/Paket/C",52.63
+21,"Prov. Kepulauan Riau",2007,"SMP/Mts/Paket/B",71.69
+21,"Prov. Kepulauan Riau",2008,"SD/MI/Paket/A",93.79
+21,"Prov. Kepulauan Riau",2008,"SM/SMK/MA/Paket/C",53.4
+21,"Prov. Kepulauan Riau",2008,"SMP/Mts/Paket/B",72.18
+21,"Prov. Kepulauan Riau",2009,"SD/MI/Paket/A",93.92
+21,"Prov. Kepulauan Riau",2009,"SM/SMK/MA/Paket/C",53.42
+21,"Prov. Kepulauan Riau",2009,"SMP/Mts/Paket/B",72.53
+21,"Prov. Kepulauan Riau",2010,"SD/MI/Paket/A",94.56
+21,"Prov. Kepulauan Riau",2010,"SM/SMK/MA/Paket/C",54.74
+21,"Prov. Kepulauan Riau",2010,"SMP/Mts/Paket/B",72.92
+21,"Prov. Kepulauan Riau",2011,"SD/MI/Paket/A",92.01
+21,"Prov. Kepulauan Riau",2011,"SM/SMK/MA/Paket/C",54.25
+21,"Prov. Kepulauan Riau",2011,"SMP/Mts/Paket/B",73.34
+21,"Prov. Kepulauan Riau",2012,"SD/MI/Paket/A",94.1
+21,"Prov. Kepulauan Riau",2012,"SM/SMK/MA/Paket/C",61.71
+21,"Prov. Kepulauan Riau",2012,"SMP/Mts/Paket/B",79.52
+31,"Prov. DKI Jakarta",2003,"SD/MI",91.61
+31,"Prov. DKI Jakarta",2003,"SM/MA",63.26
+31,"Prov. DKI Jakarta",2003,"SMP/Mts",77.58
+31,"Prov. DKI Jakarta",2004,"SD/MI",91.87
+31,"Prov. DKI Jakarta",2004,"SM/MA",61.25
+31,"Prov. DKI Jakarta",2004,"SMP/Mts",76.08
+31,"Prov. DKI Jakarta",2005,"SD/MI",92.4
+31,"Prov. DKI Jakarta",2005,"SM/MA",58.62
+31,"Prov. DKI Jakarta",2005,"SMP/Mts",74.95
+31,"Prov. DKI Jakarta",2006,"SD/MI",90.78
+31,"Prov. DKI Jakarta",2006,"SM/MA",52.82
+31,"Prov. DKI Jakarta",2006,"SMP/Mts",71.41
+31,"Prov. DKI Jakarta",2007,"SD/MI/Paket/A",93.27
+31,"Prov. DKI Jakarta",2007,"SM/SMK/MA/Paket/C",49.76
+31,"Prov. DKI Jakarta",2007,"SMP/Mts/Paket/B",71.36
+31,"Prov. DKI Jakarta",2008,"SD/MI/Paket/A",93.81
+31,"Prov. DKI Jakarta",2008,"SM/SMK/MA/Paket/C",50.05
+31,"Prov. DKI Jakarta",2008,"SMP/Mts/Paket/B",71.5
+31,"Prov. DKI Jakarta",2009,"SD/MI/Paket/A",94.07
+31,"Prov. DKI Jakarta",2009,"SM/SMK/MA/Paket/C",50.43
+31,"Prov. DKI Jakarta",2009,"SMP/Mts/Paket/B",72.02
+31,"Prov. DKI Jakarta",2010,"SD/MI/Paket/A",94.59
+31,"Prov. DKI Jakarta",2010,"SM/SMK/MA/Paket/C",50.57
+31,"Prov. DKI Jakarta",2010,"SMP/Mts/Paket/B",71.96
+31,"Prov. DKI Jakarta",2011,"SD/MI/Paket/A",89.79
+31,"Prov. DKI Jakarta",2011,"SM/SMK/MA/Paket/C",49.27
+31,"Prov. DKI Jakarta",2011,"SMP/Mts/Paket/B",68.85
+31,"Prov. DKI Jakarta",2012,"SD/MI/Paket/A",90.14
+31,"Prov. DKI Jakarta",2012,"SM/SMK/MA/Paket/C",53.61
+31,"Prov. DKI Jakarta",2012,"SMP/Mts/Paket/B",70.4
+32,"Prov. Jawa Barat",2003,"SD/MI",92.45
+32,"Prov. Jawa Barat",2003,"SM/MA",34.65
+32,"Prov. Jawa Barat",2003,"SMP/Mts",61.02
+32,"Prov. Jawa Barat",2004,"SD/MI",93.41
+32,"Prov. Jawa Barat",2004,"SM/MA",37.18
+32,"Prov. Jawa Barat",2004,"SMP/Mts",61.74
+32,"Prov. Jawa Barat",2005,"SD/MI",91.86
+32,"Prov. Jawa Barat",2005,"SM/MA",36.89
+32,"Prov. Jawa Barat",2005,"SMP/Mts",59.99
+32,"Prov. Jawa Barat",2006,"SD/MI",94.21
+32,"Prov. Jawa Barat",2006,"SM/MA",37.84
+32,"Prov. Jawa Barat",2006,"SMP/Mts",62.13
+32,"Prov. Jawa Barat",2007,"SD/MI/Paket/A",94.17
+32,"Prov. Jawa Barat",2007,"SM/SMK/MA/Paket/C",38.29
+32,"Prov. Jawa Barat",2007,"SMP/Mts/Paket/B",67.27
+32,"Prov. Jawa Barat",2008,"SD/MI/Paket/A",94.19
+32,"Prov. Jawa Barat",2008,"SM/SMK/MA/Paket/C",38.31
+32,"Prov. Jawa Barat",2008,"SMP/Mts/Paket/B",68.2
+32,"Prov. Jawa Barat",2009,"SD/MI/Paket/A",94.56
+32,"Prov. Jawa Barat",2009,"SM/SMK/MA/Paket/C",38.59
+32,"Prov. Jawa Barat",2009,"SMP/Mts/Paket/B",67.91
+32,"Prov. Jawa Barat",2010,"SD/MI/Paket/A",95.02
+32,"Prov. Jawa Barat",2010,"SM/SMK/MA/Paket/C",38.84
+32,"Prov. Jawa Barat",2010,"SMP/Mts/Paket/B",68.43
+32,"Prov. Jawa Barat",2011,"SD/MI/Paket/A",92.26
+32,"Prov. Jawa Barat",2011,"SM/SMK/MA/Paket/C",42.5
+32,"Prov. Jawa Barat",2011,"SMP/Mts/Paket/B",69.57
+32,"Prov. Jawa Barat",2012,"SD/MI/Paket/A",93.45
+32,"Prov. Jawa Barat",2012,"SM/SMK/MA/Paket/C",50.61
+32,"Prov. Jawa Barat",2012,"SMP/Mts/Paket/B",73.28
+33,"Prov. Jawa Tengah",2003,"SD/MI",93.7
+33,"Prov. Jawa Tengah",2003,"SM/MA",38.29
+33,"Prov. Jawa Tengah",2003,"SMP/Mts",66.61
+33,"Prov. Jawa Tengah",2004,"SD/MI",93.32
+33,"Prov. Jawa Tengah",2004,"SM/MA",41.67
+33,"Prov. Jawa Tengah",2004,"SMP/Mts",67.82
+33,"Prov. Jawa Tengah",2005,"SD/MI",94.47
+33,"Prov. Jawa Tengah",2005,"SM/MA",43.3
+33,"Prov. Jawa Tengah",2005,"SMP/Mts",69.99
+33,"Prov. Jawa Tengah",2006,"SD/MI",94.05
+33,"Prov. Jawa Tengah",2006,"SM/MA",42.36
+33,"Prov. Jawa Tengah",2006,"SMP/Mts",67.67
+33,"Prov. Jawa Tengah",2007,"SD/MI/Paket/A",94.78
+33,"Prov. Jawa Tengah",2007,"SM/SMK/MA/Paket/C",44.11
+33,"Prov. Jawa Tengah",2007,"SMP/Mts/Paket/B",69.19
+33,"Prov. Jawa Tengah",2008,"SD/MI/Paket/A",95.14
+33,"Prov. Jawa Tengah",2008,"SM/SMK/MA/Paket/C",44.39
+33,"Prov. Jawa Tengah",2008,"SMP/Mts/Paket/B",69.68
+33,"Prov. Jawa Tengah",2009,"SD/MI/Paket/A",95.63
+33,"Prov. Jawa Tengah",2009,"SM/SMK/MA/Paket/C",44.53
+33,"Prov. Jawa Tengah",2009,"SMP/Mts/Paket/B",69.67
+33,"Prov. Jawa Tengah",2010,"SD/MI/Paket/A",95.93
+33,"Prov. Jawa Tengah",2010,"SM/SMK/MA/Paket/C",45000
+33,"Prov. Jawa Tengah",2010,"SMP/Mts/Paket/B",69.92
+33,"Prov. Jawa Tengah",2011,"SD/MI/Paket/A",90.19
+33,"Prov. Jawa Tengah",2011,"SM/SMK/MA/Paket/C",47.34
+33,"Prov. Jawa Tengah",2011,"SMP/Mts/Paket/B",69.77
+33,"Prov. Jawa Tengah",2012,"SD/MI/Paket/A",92000
+33,"Prov. Jawa Tengah",2012,"SM/SMK/MA/Paket/C",50.98
+33,"Prov. Jawa Tengah",2012,"SMP/Mts/Paket/B",72.51
+34,"Prov. D I Yogyakarta",2003,"SD/MI",91.98
+34,"Prov. D I Yogyakarta",2003,"SM/MA",59.77
+34,"Prov. D I Yogyakarta",2003,"SMP/Mts",79.06
+34,"Prov. D I Yogyakarta",2004,"SD/MI",92.55
+34,"Prov. D I Yogyakarta",2004,"SM/MA",61.51
+34,"Prov. D I Yogyakarta",2004,"SMP/Mts",77.37
+34,"Prov. D I Yogyakarta",2005,"SD/MI",95.46
+34,"Prov. D I Yogyakarta",2005,"SM/MA",62.45
+34,"Prov. D I Yogyakarta",2005,"SMP/Mts",83.27
+34,"Prov. D I Yogyakarta",2006,"SD/MI",94.38
+34,"Prov. D I Yogyakarta",2006,"SM/MA",55.85
+34,"Prov. D I Yogyakarta",2006,"SMP/Mts",72.3
+34,"Prov. D I Yogyakarta",2007,"SD/MI/Paket/A",93.53
+34,"Prov. D I Yogyakarta",2007,"SM/SMK/MA/Paket/C",57.88
+34,"Prov. D I Yogyakarta",2007,"SMP/Mts/Paket/B",74.94
+34,"Prov. D I Yogyakarta",2008,"SD/MI/Paket/A",94.32
+34,"Prov. D I Yogyakarta",2008,"SM/SMK/MA/Paket/C",58.96
+34,"Prov. D I Yogyakarta",2008,"SMP/Mts/Paket/B",75.31
+34,"Prov. D I Yogyakarta",2009,"SD/MI/Paket/A",94.38
+34,"Prov. D I Yogyakarta",2009,"SM/SMK/MA/Paket/C",58.69
+34,"Prov. D I Yogyakarta",2009,"SMP/Mts/Paket/B",75.34
+34,"Prov. D I Yogyakarta",2010,"SD/MI/Paket/A",94.76
+34,"Prov. D I Yogyakarta",2010,"SM/SMK/MA/Paket/C",59.35
+34,"Prov. D I Yogyakarta",2010,"SMP/Mts/Paket/B",75.55
+34,"Prov. D I Yogyakarta",2011,"SD/MI/Paket/A",91.98
+34,"Prov. D I Yogyakarta",2011,"SM/SMK/MA/Paket/C",59.68
+34,"Prov. D I Yogyakarta",2011,"SMP/Mts/Paket/B",69.15
+34,"Prov. D I Yogyakarta",2012,"SD/MI/Paket/A",96.03
+34,"Prov. D I Yogyakarta",2012,"SM/SMK/MA/Paket/C",64.02
+34,"Prov. D I Yogyakarta",2012,"SMP/Mts/Paket/B",72.64
+35,"Prov. Jawa Timur",2003,"SD/MI",93.48
+35,"Prov. Jawa Timur",2003,"SM/MA",40.83
+35,"Prov. Jawa Timur",2003,"SMP/Mts",64.47
+35,"Prov. Jawa Timur",2004,"SD/MI",93.71
+35,"Prov. Jawa Timur",2004,"SM/MA",41.94
+35,"Prov. Jawa Timur",2004,"SMP/Mts",67.1
+35,"Prov. Jawa Timur",2005,"SD/MI",94.91
+35,"Prov. Jawa Timur",2005,"SM/MA",44.86
+35,"Prov. Jawa Timur",2005,"SMP/Mts",68.85
+35,"Prov. Jawa Timur",2006,"SD/MI",94.2
+35,"Prov. Jawa Timur",2006,"SM/MA",46.35
+35,"Prov. Jawa Timur",2006,"SMP/Mts",70.28
+35,"Prov. Jawa Timur",2007,"SD/MI/Paket/A",94.5
+35,"Prov. Jawa Timur",2007,"SM/SMK/MA/Paket/C",47.97
+35,"Prov. Jawa Timur",2007,"SMP/Mts/Paket/B",69.21
+35,"Prov. Jawa Timur",2008,"SD/MI/Paket/A",94.57
+35,"Prov. Jawa Timur",2008,"SM/SMK/MA/Paket/C",47.93
+35,"Prov. Jawa Timur",2008,"SMP/Mts/Paket/B",69.55
+35,"Prov. Jawa Timur",2009,"SD/MI/Paket/A",95.27
+35,"Prov. Jawa Timur",2009,"SM/SMK/MA/Paket/C",48.26
+35,"Prov. Jawa Timur",2009,"SMP/Mts/Paket/B",69.9
+35,"Prov. Jawa Timur",2010,"SD/MI/Paket/A",95.63
+35,"Prov. Jawa Timur",2010,"SM/SMK/MA/Paket/C",48.6
+35,"Prov. Jawa Timur",2010,"SMP/Mts/Paket/B",70.17
+35,"Prov. Jawa Timur",2011,"SD/MI/Paket/A",91.88
+35,"Prov. Jawa Timur",2011,"SM/SMK/MA/Paket/C",49.32
+35,"Prov. Jawa Timur",2011,"SMP/Mts/Paket/B",71.77
+35,"Prov. Jawa Timur",2012,"SD/MI/Paket/A",92.92
+35,"Prov. Jawa Timur",2012,"SM/SMK/MA/Paket/C",52.12
+35,"Prov. Jawa Timur",2012,"SMP/Mts/Paket/B",74.52
+36,"Prov. Banten",2003,"SD/MI",93.77
+36,"Prov. Banten",2003,"SM/MA",36.41
+36,"Prov. Banten",2003,"SMP/Mts",62.28
+36,"Prov. Banten",2004,"SD/MI",94.12
+36,"Prov. Banten",2004,"SM/MA",39.68
+36,"Prov. Banten",2004,"SMP/Mts",63.75
+36,"Prov. Banten",2005,"SD/MI",93.24
+36,"Prov. Banten",2005,"SM/MA",44.37
+36,"Prov. Banten",2005,"SMP/Mts",61.19
+36,"Prov. Banten",2006,"SD/MI",94.83
+36,"Prov. Banten",2006,"SM/MA",41.44
+36,"Prov. Banten",2006,"SMP/Mts",66.56
+36,"Prov. Banten",2007,"SD/MI/Paket/A",93.03
+36,"Prov. Banten",2007,"SM/SMK/MA/Paket/C",38.97
+36,"Prov. Banten",2007,"SMP/Mts/Paket/B",58.96
+36,"Prov. Banten",2008,"SD/MI/Paket/A",93.39
+36,"Prov. Banten",2008,"SM/SMK/MA/Paket/C",38.83
+36,"Prov. Banten",2008,"SMP/Mts/Paket/B",59.5
+36,"Prov. Banten",2009,"SD/MI/Paket/A",94.07
+36,"Prov. Banten",2009,"SM/SMK/MA/Paket/C",38.77
+36,"Prov. Banten",2009,"SMP/Mts/Paket/B",59.69
+36,"Prov. Banten",2010,"SD/MI/Paket/A",94.73
+36,"Prov. Banten",2010,"SM/SMK/MA/Paket/C",39.61
+36,"Prov. Banten",2010,"SMP/Mts/Paket/B",60.32
+36,"Prov. Banten",2011,"SD/MI/Paket/A",92.18
+36,"Prov. Banten",2011,"SM/SMK/MA/Paket/C",46.17
+36,"Prov. Banten",2011,"SMP/Mts/Paket/B",71.12
+36,"Prov. Banten",2012,"SD/MI/Paket/A",93.61
+36,"Prov. Banten",2012,"SM/SMK/MA/Paket/C",51.86
+36,"Prov. Banten",2012,"SMP/Mts/Paket/B",73.8
+51,"Prov. Bali",2003,"SD/MI",91.58
+51,"Prov. Bali",2003,"SM/MA",53.36
+51,"Prov. Bali",2003,"SMP/Mts",68.63
+51,"Prov. Bali",2004,"SD/MI",93.48
+51,"Prov. Bali",2004,"SM/MA",54.11
+51,"Prov. Bali",2004,"SMP/Mts",69.37
+51,"Prov. Bali",2005,"SD/MI",93.26
+51,"Prov. Bali",2005,"SM/MA",53.04
+51,"Prov. Bali",2005,"SMP/Mts",70.03
+51,"Prov. Bali",2006,"SD/MI",93.33
+51,"Prov. Bali",2006,"SM/MA",53.54
+51,"Prov. Bali",2006,"SMP/Mts",70.15
+51,"Prov. Bali",2007,"SD/MI/Paket/A",94.49
+51,"Prov. Bali",2007,"SM/SMK/MA/Paket/C",55.81
+51,"Prov. Bali",2007,"SMP/Mts/Paket/B",66.69
+51,"Prov. Bali",2008,"SD/MI/Paket/A",94.93
+51,"Prov. Bali",2008,"SM/SMK/MA/Paket/C",55.65
+51,"Prov. Bali",2008,"SMP/Mts/Paket/B",67.34
+51,"Prov. Bali",2009,"SD/MI/Paket/A",94.99
+51,"Prov. Bali",2009,"SM/SMK/MA/Paket/C",56.48
+51,"Prov. Bali",2009,"SMP/Mts/Paket/B",67.38
+51,"Prov. Bali",2010,"SD/MI/Paket/A",95.53
+51,"Prov. Bali",2010,"SM/SMK/MA/Paket/C",57.14
+51,"Prov. Bali",2010,"SMP/Mts/Paket/B",67.83
+51,"Prov. Bali",2011,"SD/MI/Paket/A",90.39
+51,"Prov. Bali",2011,"SM/SMK/MA/Paket/C",60.54
+51,"Prov. Bali",2011,"SMP/Mts/Paket/B",69.16
+51,"Prov. Bali",2012,"SD/MI/Paket/A",91.06
+51,"Prov. Bali",2012,"SM/SMK/MA/Paket/C",63.28
+51,"Prov. Bali",2012,"SMP/Mts/Paket/B",75.07
+52,"Prov. Nusa Tenggara Barat",2003,"SD/MI",92.48
+52,"Prov. Nusa Tenggara Barat",2003,"SM/MA",33.45
+52,"Prov. Nusa Tenggara Barat",2003,"SMP/Mts",57.19
+52,"Prov. Nusa Tenggara Barat",2004,"SD/MI",92.42
+52,"Prov. Nusa Tenggara Barat",2004,"SM/MA",38.63
+52,"Prov. Nusa Tenggara Barat",2004,"SMP/Mts",61.7
+52,"Prov. Nusa Tenggara Barat",2005,"SD/MI",92.99
+52,"Prov. Nusa Tenggara Barat",2005,"SM/MA",41.25
+52,"Prov. Nusa Tenggara Barat",2005,"SMP/Mts",67.53
+52,"Prov. Nusa Tenggara Barat",2006,"SD/MI",94.5
+52,"Prov. Nusa Tenggara Barat",2006,"SM/MA",43.58
+52,"Prov. Nusa Tenggara Barat",2006,"SMP/Mts",69.62
+52,"Prov. Nusa Tenggara Barat",2007,"SD/MI/Paket/A",94.2
+52,"Prov. Nusa Tenggara Barat",2007,"SM/SMK/MA/Paket/C",48.26
+52,"Prov. Nusa Tenggara Barat",2007,"SMP/Mts/Paket/B",70.79
+52,"Prov. Nusa Tenggara Barat",2008,"SD/MI/Paket/A",94.2
+52,"Prov. Nusa Tenggara Barat",2008,"SM/SMK/MA/Paket/C",48.38
+52,"Prov. Nusa Tenggara Barat",2008,"SMP/Mts/Paket/B",71.44
+52,"Prov. Nusa Tenggara Barat",2009,"SD/MI/Paket/A",94.75
+52,"Prov. Nusa Tenggara Barat",2009,"SM/SMK/MA/Paket/C",48.51
+52,"Prov. Nusa Tenggara Barat",2009,"SMP/Mts/Paket/B",71.32
+52,"Prov. Nusa Tenggara Barat",2010,"SD/MI/Paket/A",95.16
+52,"Prov. Nusa Tenggara Barat",2010,"SM/SMK/MA/Paket/C",49.35
+52,"Prov. Nusa Tenggara Barat",2010,"SMP/Mts/Paket/B",71.73
+52,"Prov. Nusa Tenggara Barat",2011,"SD/MI/Paket/A",92.69
+52,"Prov. Nusa Tenggara Barat",2011,"SM/SMK/MA/Paket/C",53.93
+52,"Prov. Nusa Tenggara Barat",2011,"SMP/Mts/Paket/B",76.7
+52,"Prov. Nusa Tenggara Barat",2012,"SD/MI/Paket/A",93.56
+52,"Prov. Nusa Tenggara Barat",2012,"SM/SMK/MA/Paket/C",53.31
+52,"Prov. Nusa Tenggara Barat",2012,"SMP/Mts/Paket/B",77.81
+53,"Prov. Nusa Tenggara Timur",2003,"SD/MI",88.27
+53,"Prov. Nusa Tenggara Timur",2003,"SM/MA",23.57
+53,"Prov. Nusa Tenggara Timur",2003,"SMP/Mts",39.1
+53,"Prov. Nusa Tenggara Timur",2004,"SD/MI",90.79
+53,"Prov. Nusa Tenggara Timur",2004,"SM/MA",28.27
+53,"Prov. Nusa Tenggara Timur",2004,"SMP/Mts",43.26
+53,"Prov. Nusa Tenggara Timur",2005,"SD/MI",92000
+53,"Prov. Nusa Tenggara Timur",2005,"SM/MA",27.77
+53,"Prov. Nusa Tenggara Timur",2005,"SMP/Mts",43000
+53,"Prov. Nusa Tenggara Timur",2006,"SD/MI",91.58
+53,"Prov. Nusa Tenggara Timur",2006,"SM/MA",30.97
+53,"Prov. Nusa Tenggara Timur",2006,"SMP/Mts",47.23
+53,"Prov. Nusa Tenggara Timur",2007,"SD/MI/Paket/A",91.61
+53,"Prov. Nusa Tenggara Timur",2007,"SM/SMK/MA/Paket/C",33.75
+53,"Prov. Nusa Tenggara Timur",2007,"SMP/Mts/Paket/B",49.75
+53,"Prov. Nusa Tenggara Timur",2008,"SD/MI/Paket/A",91.72
+53,"Prov. Nusa Tenggara Timur",2008,"SM/SMK/MA/Paket/C",34.67
+53,"Prov. Nusa Tenggara Timur",2008,"SMP/Mts/Paket/B",49.87
+53,"Prov. Nusa Tenggara Timur",2009,"SD/MI/Paket/A",92.46
+53,"Prov. Nusa Tenggara Timur",2009,"SM/SMK/MA/Paket/C",34.15
+53,"Prov. Nusa Tenggara Timur",2009,"SMP/Mts/Paket/B",50.21
+53,"Prov. Nusa Tenggara Timur",2010,"SD/MI/Paket/A",93.03
+53,"Prov. Nusa Tenggara Timur",2010,"SM/SMK/MA/Paket/C",34.93
+53,"Prov. Nusa Tenggara Timur",2010,"SMP/Mts/Paket/B",51.03
+53,"Prov. Nusa Tenggara Timur",2011,"SD/MI/Paket/A",92.13
+53,"Prov. Nusa Tenggara Timur",2011,"SM/SMK/MA/Paket/C",40.84
+53,"Prov. Nusa Tenggara Timur",2011,"SMP/Mts/Paket/B",56.74
+53,"Prov. Nusa Tenggara Timur",2012,"SD/MI/Paket/A",92.28
+53,"Prov. Nusa Tenggara Timur",2012,"SM/SMK/MA/Paket/C",38.37
+53,"Prov. Nusa Tenggara Timur",2012,"SMP/Mts/Paket/B",55.89
+61,"Prov. Kalimantan Barat",2003,"SD/MI",88.89
+61,"Prov. Kalimantan Barat",2003,"SM/MA",29.11
+61,"Prov. Kalimantan Barat",2003,"SMP/Mts",50.88
+61,"Prov. Kalimantan Barat",2004,"SD/MI",93.11
+61,"Prov. Kalimantan Barat",2004,"SM/MA",31.51
+61,"Prov. Kalimantan Barat",2004,"SMP/Mts",53.28
+61,"Prov. Kalimantan Barat",2005,"SD/MI",92.49
+61,"Prov. Kalimantan Barat",2005,"SM/MA",32.25
+61,"Prov. Kalimantan Barat",2005,"SMP/Mts",53.31
+61,"Prov. Kalimantan Barat",2006,"SD/MI",93.82
+61,"Prov. Kalimantan Barat",2006,"SM/MA",34.77
+61,"Prov. Kalimantan Barat",2006,"SMP/Mts",60.92
+61,"Prov. Kalimantan Barat",2007,"SD/MI/Paket/A",93.48
+61,"Prov. Kalimantan Barat",2007,"SM/SMK/MA/Paket/C",36.16
+61,"Prov. Kalimantan Barat",2007,"SMP/Mts/Paket/B",54.77
+61,"Prov. Kalimantan Barat",2008,"SD/MI/Paket/A",93.96
+61,"Prov. Kalimantan Barat",2008,"SM/SMK/MA/Paket/C",36.65
+61,"Prov. Kalimantan Barat",2008,"SMP/Mts/Paket/B",55.55
+61,"Prov. Kalimantan Barat",2009,"SD/MI/Paket/A",93.96
+61,"Prov. Kalimantan Barat",2009,"SM/SMK/MA/Paket/C",36.4
+61,"Prov. Kalimantan Barat",2009,"SMP/Mts/Paket/B",55.45
+61,"Prov. Kalimantan Barat",2010,"SD/MI/Paket/A",94.76
+61,"Prov. Kalimantan Barat",2010,"SM/SMK/MA/Paket/C",36.83
+61,"Prov. Kalimantan Barat",2010,"SMP/Mts/Paket/B",56.06
+61,"Prov. Kalimantan Barat",2011,"SD/MI/Paket/A",92.18
+61,"Prov. Kalimantan Barat",2011,"SM/SMK/MA/Paket/C",36.28
+61,"Prov. Kalimantan Barat",2011,"SMP/Mts/Paket/B",58.75
+61,"Prov. Kalimantan Barat",2012,"SD/MI/Paket/A",92.96
+61,"Prov. Kalimantan Barat",2012,"SM/SMK/MA/Paket/C",36.82
+61,"Prov. Kalimantan Barat",2012,"SMP/Mts/Paket/B",59.3
+62,"Prov. Kalimantan Tengah",2003,"SD/MI",94.75
+62,"Prov. Kalimantan Tengah",2003,"SM/MA",37.23
+62,"Prov. Kalimantan Tengah",2003,"SMP/Mts",58.64
+62,"Prov. Kalimantan Tengah",2004,"SD/MI",95.1
+62,"Prov. Kalimantan Tengah",2004,"SM/MA",38.82
+62,"Prov. Kalimantan Tengah",2004,"SMP/Mts",65.15
+62,"Prov. Kalimantan Tengah",2005,"SD/MI",95.14
+62,"Prov. Kalimantan Tengah",2005,"SM/MA",39.49
+62,"Prov. Kalimantan Tengah",2005,"SMP/Mts",71.49
+62,"Prov. Kalimantan Tengah",2006,"SD/MI",95.97
+62,"Prov. Kalimantan Tengah",2006,"SM/MA",42.66
+62,"Prov. Kalimantan Tengah",2006,"SMP/Mts",67.69
+62,"Prov. Kalimantan Tengah",2007,"SD/MI/Paket/A",95.48
+62,"Prov. Kalimantan Tengah",2007,"SM/SMK/MA/Paket/C",39.28
+62,"Prov. Kalimantan Tengah",2007,"SMP/Mts/Paket/B",60.12
+62,"Prov. Kalimantan Tengah",2008,"SD/MI/Paket/A",95.71
+62,"Prov. Kalimantan Tengah",2008,"SM/SMK/MA/Paket/C",39.13
+62,"Prov. Kalimantan Tengah",2008,"SMP/Mts/Paket/B",60.46
+62,"Prov. Kalimantan Tengah",2009,"SD/MI/Paket/A",96.14
+62,"Prov. Kalimantan Tengah",2009,"SM/SMK/MA/Paket/C",39.27
+62,"Prov. Kalimantan Tengah",2009,"SMP/Mts/Paket/B",60.59
+62,"Prov. Kalimantan Tengah",2010,"SD/MI/Paket/A",96.63
+62,"Prov. Kalimantan Tengah",2010,"SM/SMK/MA/Paket/C",39.62
+62,"Prov. Kalimantan Tengah",2010,"SMP/Mts/Paket/B",61.3
+62,"Prov. Kalimantan Tengah",2011,"SD/MI/Paket/A",92.25
+62,"Prov. Kalimantan Tengah",2011,"SM/SMK/MA/Paket/C",43.93
+62,"Prov. Kalimantan Tengah",2011,"SMP/Mts/Paket/B",66.35
+62,"Prov. Kalimantan Tengah",2012,"SD/MI/Paket/A",96.01
+62,"Prov. Kalimantan Tengah",2012,"SM/SMK/MA/Paket/C",42.39
+62,"Prov. Kalimantan Tengah",2012,"SMP/Mts/Paket/B",64.65
+63,"Prov. Kalimantan Selatan",2003,"SD/MI",92.46
+63,"Prov. Kalimantan Selatan",2003,"SM/MA",30.53
+63,"Prov. Kalimantan Selatan",2003,"SMP/Mts",56.33
+63,"Prov. Kalimantan Selatan",2004,"SD/MI",93.19
+63,"Prov. Kalimantan Selatan",2004,"SM/MA",35.57
+63,"Prov. Kalimantan Selatan",2004,"SMP/Mts",59.27
+63,"Prov. Kalimantan Selatan",2005,"SD/MI",95.24
+63,"Prov. Kalimantan Selatan",2005,"SM/MA",33.54
+63,"Prov. Kalimantan Selatan",2005,"SMP/Mts",56.89
+63,"Prov. Kalimantan Selatan",2006,"SD/MI",93.28
+63,"Prov. Kalimantan Selatan",2006,"SM/MA",37.23
+63,"Prov. Kalimantan Selatan",2006,"SMP/Mts",62.12
+63,"Prov. Kalimantan Selatan",2007,"SD/MI/Paket/A",94000
+63,"Prov. Kalimantan Selatan",2007,"SM/SMK/MA/Paket/C",35.73
+63,"Prov. Kalimantan Selatan",2007,"SMP/Mts/Paket/B",59.65
+63,"Prov. Kalimantan Selatan",2008,"SD/MI/Paket/A",94.17
+63,"Prov. Kalimantan Selatan",2008,"SM/SMK/MA/Paket/C",35.78
+63,"Prov. Kalimantan Selatan",2008,"SMP/Mts/Paket/B",60.56
+63,"Prov. Kalimantan Selatan",2009,"SD/MI/Paket/A",94.49
+63,"Prov. Kalimantan Selatan",2009,"SM/SMK/MA/Paket/C",35.71
+63,"Prov. Kalimantan Selatan",2009,"SMP/Mts/Paket/B",60.56
+63,"Prov. Kalimantan Selatan",2010,"SD/MI/Paket/A",95000
+63,"Prov. Kalimantan Selatan",2010,"SM/SMK/MA/Paket/C",36.24
+63,"Prov. Kalimantan Selatan",2010,"SMP/Mts/Paket/B",60.9
+63,"Prov. Kalimantan Selatan",2011,"SD/MI/Paket/A",92.01
+63,"Prov. Kalimantan Selatan",2011,"SM/SMK/MA/Paket/C",43.01
+63,"Prov. Kalimantan Selatan",2011,"SMP/Mts/Paket/B",65.79
+63,"Prov. Kalimantan Selatan",2012,"SD/MI/Paket/A",93.04
+63,"Prov. Kalimantan Selatan",2012,"SM/SMK/MA/Paket/C",48.9
+63,"Prov. Kalimantan Selatan",2012,"SMP/Mts/Paket/B",66.61
+64,"Prov. Kalimantan Timur",2003,"SD/MI",91.33
+64,"Prov. Kalimantan Timur",2003,"SM/MA",49.83
+64,"Prov. Kalimantan Timur",2003,"SMP/Mts",67.98
+64,"Prov. Kalimantan Timur",2004,"SD/MI",92.87
+64,"Prov. Kalimantan Timur",2004,"SM/MA",52.42
+64,"Prov. Kalimantan Timur",2004,"SMP/Mts",70.2
+64,"Prov. Kalimantan Timur",2005,"SD/MI",92.62
+64,"Prov. Kalimantan Timur",2005,"SM/MA",49.08
+64,"Prov. Kalimantan Timur",2005,"SMP/Mts",69.8
+64,"Prov. Kalimantan Timur",2006,"SD/MI",92.86
+64,"Prov. Kalimantan Timur",2006,"SM/MA",50.41
+64,"Prov. Kalimantan Timur",2006,"SMP/Mts",64000
+64,"Prov. Kalimantan Timur",2007,"SD/MI/Paket/A",93.34
+64,"Prov. Kalimantan Timur",2007,"SM/SMK/MA/Paket/C",52.88
+64,"Prov. Kalimantan Timur",2007,"SMP/Mts/Paket/B",71.24
+64,"Prov. Kalimantan Timur",2008,"SD/MI/Paket/A",93.59
+64,"Prov. Kalimantan Timur",2008,"SM/SMK/MA/Paket/C",53.19
+64,"Prov. Kalimantan Timur",2008,"SMP/Mts/Paket/B",71.43
+64,"Prov. Kalimantan Timur",2009,"SD/MI/Paket/A",93.74
+64,"Prov. Kalimantan Timur",2009,"SM/SMK/MA/Paket/C",53.1
+64,"Prov. Kalimantan Timur",2009,"SMP/Mts/Paket/B",72.06
+64,"Prov. Kalimantan Timur",2010,"SD/MI/Paket/A",94.14
+64,"Prov. Kalimantan Timur",2010,"SM/SMK/MA/Paket/C",53.66
+64,"Prov. Kalimantan Timur",2010,"SMP/Mts/Paket/B",72.56
+64,"Prov. Kalimantan Timur",2011,"SD/MI/Paket/A",92.23
+64,"Prov. Kalimantan Timur",2011,"SM/SMK/MA/Paket/C",54.58
+64,"Prov. Kalimantan Timur",2011,"SMP/Mts/Paket/B",72.4
+64,"Prov. Kalimantan Timur",2012,"SD/MI/Paket/A",94.37
+64,"Prov. Kalimantan Timur",2012,"SM/SMK/MA/Paket/C",59.75
+64,"Prov. Kalimantan Timur",2012,"SMP/Mts/Paket/B",74.37
+71,"Prov. Sulawesi Utara",2003,"SD/MI",89.18
+71,"Prov. Sulawesi Utara",2003,"SM/MA",44.42
+71,"Prov. Sulawesi Utara",2003,"SMP/Mts",68.33
+71,"Prov. Sulawesi Utara",2004,"SD/MI",88.26
+71,"Prov. Sulawesi Utara",2004,"SM/MA",50.71
+71,"Prov. Sulawesi Utara",2004,"SMP/Mts",67.87
+71,"Prov. Sulawesi Utara",2005,"SD/MI",90.64
+71,"Prov. Sulawesi Utara",2005,"SM/MA",50.02
+71,"Prov. Sulawesi Utara",2005,"SMP/Mts",65.86
+71,"Prov. Sulawesi Utara",2006,"SD/MI",90.4
+71,"Prov. Sulawesi Utara",2006,"SM/MA",48.78
+71,"Prov. Sulawesi Utara",2006,"SMP/Mts",66.03
+71,"Prov. Sulawesi Utara",2007,"SD/MI/Paket/A",90.75
+71,"Prov. Sulawesi Utara",2007,"SM/SMK/MA/Paket/C",50.45
+71,"Prov. Sulawesi Utara",2007,"SMP/Mts/Paket/B",66.25
+71,"Prov. Sulawesi Utara",2008,"SD/MI/Paket/A",91.17
+71,"Prov. Sulawesi Utara",2008,"SM/SMK/MA/Paket/C",50.45
+71,"Prov. Sulawesi Utara",2008,"SMP/Mts/Paket/B",66.58
+71,"Prov. Sulawesi Utara",2009,"SD/MI/Paket/A",91.9
+71,"Prov. Sulawesi Utara",2009,"SM/SMK/MA/Paket/C",50.46
+71,"Prov. Sulawesi Utara",2009,"SMP/Mts/Paket/B",66.69
+71,"Prov. Sulawesi Utara",2010,"SD/MI/Paket/A",92.25
+71,"Prov. Sulawesi Utara",2010,"SM/SMK/MA/Paket/C",50.7
+71,"Prov. Sulawesi Utara",2010,"SMP/Mts/Paket/B",67.07
+71,"Prov. Sulawesi Utara",2011,"SD/MI/Paket/A",85.91
+71,"Prov. Sulawesi Utara",2011,"SM/SMK/MA/Paket/C",50.55
+71,"Prov. Sulawesi Utara",2011,"SMP/Mts/Paket/B",61.22
+71,"Prov. Sulawesi Utara",2012,"SD/MI/Paket/A",88.01
+71,"Prov. Sulawesi Utara",2012,"SM/SMK/MA/Paket/C",51.4
+71,"Prov. Sulawesi Utara",2012,"SMP/Mts/Paket/B",62.27
+72,"Prov. Sulawesi Tengah",2003,"SD/MI",90.85
+72,"Prov. Sulawesi Tengah",2003,"SM/MA",33.25
+72,"Prov. Sulawesi Tengah",2003,"SMP/Mts",54.68
+72,"Prov. Sulawesi Tengah",2004,"SD/MI",91.44
+72,"Prov. Sulawesi Tengah",2004,"SM/MA",36.33
+72,"Prov. Sulawesi Tengah",2004,"SMP/Mts",59.45
+72,"Prov. Sulawesi Tengah",2005,"SD/MI",92.1
+72,"Prov. Sulawesi Tengah",2005,"SM/MA",35.45
+72,"Prov. Sulawesi Tengah",2005,"SMP/Mts",60.89
+72,"Prov. Sulawesi Tengah",2006,"SD/MI",92.87
+72,"Prov. Sulawesi Tengah",2006,"SM/MA",39.51
+72,"Prov. Sulawesi Tengah",2006,"SMP/Mts",62.97
+72,"Prov. Sulawesi Tengah",2007,"SD/MI/Paket/A",92.04
+72,"Prov. Sulawesi Tengah",2007,"SM/SMK/MA/Paket/C",39.27
+72,"Prov. Sulawesi Tengah",2007,"SMP/Mts/Paket/B",59.36
+72,"Prov. Sulawesi Tengah",2008,"SD/MI/Paket/A",92.82
+72,"Prov. Sulawesi Tengah",2008,"SM/SMK/MA/Paket/C",39.93
+72,"Prov. Sulawesi Tengah",2008,"SMP/Mts/Paket/B",59.73
+72,"Prov. Sulawesi Tengah",2009,"SD/MI/Paket/A",92.98
+72,"Prov. Sulawesi Tengah",2009,"SM/SMK/MA/Paket/C",39.52
+72,"Prov. Sulawesi Tengah",2009,"SMP/Mts/Paket/B",60.22
+72,"Prov. Sulawesi Tengah",2010,"SD/MI/Paket/A",93.54
+72,"Prov. Sulawesi Tengah",2010,"SM/SMK/MA/Paket/C",40.23
+72,"Prov. Sulawesi Tengah",2010,"SMP/Mts/Paket/B",60.83
+72,"Prov. Sulawesi Tengah",2011,"SD/MI/Paket/A",89.99
+72,"Prov. Sulawesi Tengah",2011,"SM/SMK/MA/Paket/C",46.99
+72,"Prov. Sulawesi Tengah",2011,"SMP/Mts/Paket/B",61.74
+72,"Prov. Sulawesi Tengah",2012,"SD/MI/Paket/A",91.08
+72,"Prov. Sulawesi Tengah",2012,"SM/SMK/MA/Paket/C",50.75
+72,"Prov. Sulawesi Tengah",2012,"SMP/Mts/Paket/B",60.98
+73,"Prov. Sulawesi Selatan",2003,"SD/MI",89.21
+73,"Prov. Sulawesi Selatan",2003,"SM/MA",37.18
+73,"Prov. Sulawesi Selatan",2003,"SMP/Mts",54.04
+73,"Prov. Sulawesi Selatan",2004,"SD/MI",90.64
+73,"Prov. Sulawesi Selatan",2004,"SM/MA",38.39
+73,"Prov. Sulawesi Selatan",2004,"SMP/Mts",57.41
+73,"Prov. Sulawesi Selatan",2005,"SD/MI",92.04
+73,"Prov. Sulawesi Selatan",2005,"SM/MA",39.95
+73,"Prov. Sulawesi Selatan",2005,"SMP/Mts",59.1
+73,"Prov. Sulawesi Selatan",2006,"SD/MI",91.08
+73,"Prov. Sulawesi Selatan",2006,"SM/MA",40.86
+73,"Prov. Sulawesi Selatan",2006,"SMP/Mts",60.27
+73,"Prov. Sulawesi Selatan",2007,"SD/MI/Paket/A",92.19
+73,"Prov. Sulawesi Selatan",2007,"SM/SMK/MA/Paket/C",41.91
+73,"Prov. Sulawesi Selatan",2007,"SMP/Mts/Paket/B",60.8
+73,"Prov. Sulawesi Selatan",2008,"SD/MI/Paket/A",92.17
+73,"Prov. Sulawesi Selatan",2008,"SM/SMK/MA/Paket/C",41.99
+73,"Prov. Sulawesi Selatan",2008,"SMP/Mts/Paket/B",61.06
+73,"Prov. Sulawesi Selatan",2009,"SD/MI/Paket/A",92.27
+73,"Prov. Sulawesi Selatan",2009,"SM/SMK/MA/Paket/C",42.03
+73,"Prov. Sulawesi Selatan",2009,"SMP/Mts/Paket/B",61.74
+73,"Prov. Sulawesi Selatan",2010,"SD/MI/Paket/A",92.86
+73,"Prov. Sulawesi Selatan",2010,"SM/SMK/MA/Paket/C",42.75
+73,"Prov. Sulawesi Selatan",2010,"SMP/Mts/Paket/B",62.32
+73,"Prov. Sulawesi Selatan",2011,"SD/MI/Paket/A",89.48
+73,"Prov. Sulawesi Selatan",2011,"SM/SMK/MA/Paket/C",47.89
+73,"Prov. Sulawesi Selatan",2011,"SMP/Mts/Paket/B",65.29
+73,"Prov. Sulawesi Selatan",2012,"SD/MI/Paket/A",90.61
+73,"Prov. Sulawesi Selatan",2012,"SM/SMK/MA/Paket/C",53.6
+73,"Prov. Sulawesi Selatan",2012,"SMP/Mts/Paket/B",69.52
+74,"Prov. Sulawesi Tenggara",2003,"SD/MI",91.19
+74,"Prov. Sulawesi Tenggara",2003,"SM/MA",36.59
+74,"Prov. Sulawesi Tenggara",2003,"SMP/Mts",63.39
+74,"Prov. Sulawesi Tenggara",2004,"SD/MI",90.18
+74,"Prov. Sulawesi Tenggara",2004,"SM/MA",40.17
+74,"Prov. Sulawesi Tenggara",2004,"SMP/Mts",64.02
+74,"Prov. Sulawesi Tenggara",2005,"SD/MI",92.64
+74,"Prov. Sulawesi Tenggara",2005,"SM/MA",44.04
+74,"Prov. Sulawesi Tenggara",2005,"SMP/Mts",66.04
+74,"Prov. Sulawesi Tenggara",2006,"SD/MI",92.26
+74,"Prov. Sulawesi Tenggara",2006,"SM/MA",47.28
+74,"Prov. Sulawesi Tenggara",2006,"SMP/Mts",72.42
+74,"Prov. Sulawesi Tenggara",2007,"SD/MI/Paket/A",93.64
+74,"Prov. Sulawesi Tenggara",2007,"SM/SMK/MA/Paket/C",47.32
+74,"Prov. Sulawesi Tenggara",2007,"SMP/Mts/Paket/B",65.89
+74,"Prov. Sulawesi Tenggara",2008,"SD/MI/Paket/A",94.24
+74,"Prov. Sulawesi Tenggara",2008,"SM/SMK/MA/Paket/C",47.98
+74,"Prov. Sulawesi Tenggara",2008,"SMP/Mts/Paket/B",66.41
+74,"Prov. Sulawesi Tenggara",2009,"SD/MI/Paket/A",94.71
+74,"Prov. Sulawesi Tenggara",2009,"SM/SMK/MA/Paket/C",47.9
+74,"Prov. Sulawesi Tenggara",2009,"SMP/Mts/Paket/B",66.45
+74,"Prov. Sulawesi Tenggara",2010,"SD/MI/Paket/A",95.06
+74,"Prov. Sulawesi Tenggara",2010,"SM/SMK/MA/Paket/C",48.54
+74,"Prov. Sulawesi Tenggara",2010,"SMP/Mts/Paket/B",67.14
+74,"Prov. Sulawesi Tenggara",2011,"SD/MI/Paket/A",88.8
+74,"Prov. Sulawesi Tenggara",2011,"SM/SMK/MA/Paket/C",52.16
+74,"Prov. Sulawesi Tenggara",2011,"SMP/Mts/Paket/B",64.31
+74,"Prov. Sulawesi Tenggara",2012,"SD/MI/Paket/A",92.37
+74,"Prov. Sulawesi Tenggara",2012,"SM/SMK/MA/Paket/C",50.57
+74,"Prov. Sulawesi Tenggara",2012,"SMP/Mts/Paket/B",68.43
+75,"Prov. Gorontalo",2003,"SD/MI",87.33
+75,"Prov. Gorontalo",2003,"SM/MA",24.58
+75,"Prov. Gorontalo",2003,"SMP/Mts",47.86
+75,"Prov. Gorontalo",2004,"SD/MI",88.85
+75,"Prov. Gorontalo",2004,"SM/MA",28.12
+75,"Prov. Gorontalo",2004,"SMP/Mts",49.27
+75,"Prov. Gorontalo",2005,"SD/MI",88.22
+75,"Prov. Gorontalo",2005,"SM/MA",32.44
+75,"Prov. Gorontalo",2005,"SMP/Mts",46.3
+75,"Prov. Gorontalo",2006,"SD/MI",90.48
+75,"Prov. Gorontalo",2006,"SM/MA",34.47
+75,"Prov. Gorontalo",2006,"SMP/Mts",52.31
+75,"Prov. Gorontalo",2007,"SD/MI/Paket/A",90.18
+75,"Prov. Gorontalo",2007,"SM/SMK/MA/Paket/C",37.87
+75,"Prov. Gorontalo",2007,"SMP/Mts/Paket/B",53.15
+75,"Prov. Gorontalo",2008,"SD/MI/Paket/A",90.52
+75,"Prov. Gorontalo",2008,"SM/SMK/MA/Paket/C",38.26
+75,"Prov. Gorontalo",2008,"SMP/Mts/Paket/B",52.9
+75,"Prov. Gorontalo",2009,"SD/MI/Paket/A",90.4
+75,"Prov. Gorontalo",2009,"SM/SMK/MA/Paket/C",38.47
+75,"Prov. Gorontalo",2009,"SMP/Mts/Paket/B",53.05
+75,"Prov. Gorontalo",2010,"SD/MI/Paket/A",90.81
+75,"Prov. Gorontalo",2010,"SM/SMK/MA/Paket/C",39.15
+75,"Prov. Gorontalo",2010,"SMP/Mts/Paket/B",53.83
+75,"Prov. Gorontalo",2011,"SD/MI/Paket/A",90.04
+75,"Prov. Gorontalo",2011,"SM/SMK/MA/Paket/C",44.33
+75,"Prov. Gorontalo",2011,"SMP/Mts/Paket/B",59.17
+75,"Prov. Gorontalo",2012,"SD/MI/Paket/A",92.21
+75,"Prov. Gorontalo",2012,"SM/SMK/MA/Paket/C",44.67
+75,"Prov. Gorontalo",2012,"SMP/Mts/Paket/B",59.82
+76,"Prov. Sulawesi Barat",2003,"SD/MI",
+76,"Prov. Sulawesi Barat",2003,"SM/MA",
+76,"Prov. Sulawesi Barat",2003,"SMP/Mts",
+76,"Prov. Sulawesi Barat",2004,"SD/MI",
+76,"Prov. Sulawesi Barat",2004,"SM/MA",
+76,"Prov. Sulawesi Barat",2004,"SMP/Mts",
+76,"Prov. Sulawesi Barat",2005,"SD/MI",
+76,"Prov. Sulawesi Barat",2005,"SM/MA",
+76,"Prov. Sulawesi Barat",2005,"SMP/Mts",
+76,"Prov. Sulawesi Barat",2006,"SD/MI",91.67
+76,"Prov. Sulawesi Barat",2006,"SM/MA",32.35
+76,"Prov. Sulawesi Barat",2006,"SMP/Mts",55.19
+76,"Prov. Sulawesi Barat",2007,"SD/MI/Paket/A",92.17
+76,"Prov. Sulawesi Barat",2007,"SM/SMK/MA/Paket/C",33.28
+76,"Prov. Sulawesi Barat",2007,"SMP/Mts/Paket/B",53.39
+76,"Prov. Sulawesi Barat",2008,"SD/MI/Paket/A",92.75
+76,"Prov. Sulawesi Barat",2008,"SM/SMK/MA/Paket/C",34.21
+76,"Prov. Sulawesi Barat",2008,"SMP/Mts/Paket/B",53.24
+76,"Prov. Sulawesi Barat",2009,"SD/MI/Paket/A",92.77
+76,"Prov. Sulawesi Barat",2009,"SM/SMK/MA/Paket/C",33.41
+76,"Prov. Sulawesi Barat",2009,"SMP/Mts/Paket/B",53.35
+76,"Prov. Sulawesi Barat",2010,"SD/MI/Paket/A",93.94
+76,"Prov. Sulawesi Barat",2010,"SM/SMK/MA/Paket/C",34.03
+76,"Prov. Sulawesi Barat",2010,"SMP/Mts/Paket/B",54.24
+76,"Prov. Sulawesi Barat",2011,"SD/MI/Paket/A",89.35
+76,"Prov. Sulawesi Barat",2011,"SM/SMK/MA/Paket/C",46.83
+76,"Prov. Sulawesi Barat",2011,"SMP/Mts/Paket/B",60.34
+76,"Prov. Sulawesi Barat",2012,"SD/MI/Paket/A",91.31
+76,"Prov. Sulawesi Barat",2012,"SM/SMK/MA/Paket/C",43.76
+76,"Prov. Sulawesi Barat",2012,"SMP/Mts/Paket/B",60.89
+81,"Prov. Maluku",2003,"SD/MI",91.03
+81,"Prov. Maluku",2003,"SM/MA",43.53
+81,"Prov. Maluku",2003,"SMP/Mts",62.59
+81,"Prov. Maluku",2004,"SD/MI",90.92
+81,"Prov. Maluku",2004,"SM/MA",56.39
+81,"Prov. Maluku",2004,"SMP/Mts",68.06
+81,"Prov. Maluku",2005,"SD/MI",91.49
+81,"Prov. Maluku",2005,"SM/MA",54.37
+81,"Prov. Maluku",2005,"SMP/Mts",70.43
+81,"Prov. Maluku",2006,"SD/MI",92.24
+81,"Prov. Maluku",2006,"SM/MA",55.66
+81,"Prov. Maluku",2006,"SMP/Mts",76.86
+81,"Prov. Maluku",2007,"SD/MI/Paket/A",93.45
+81,"Prov. Maluku",2007,"SM/SMK/MA/Paket/C",59.38
+81,"Prov. Maluku",2007,"SMP/Mts/Paket/B",70.08
+81,"Prov. Maluku",2008,"SD/MI/Paket/A",93.87
+81,"Prov. Maluku",2008,"SM/SMK/MA/Paket/C",59.38
+81,"Prov. Maluku",2008,"SMP/Mts/Paket/B",70.58
+81,"Prov. Maluku",2009,"SD/MI/Paket/A",94.38
+81,"Prov. Maluku",2009,"SM/SMK/MA/Paket/C",59.58
+81,"Prov. Maluku",2009,"SMP/Mts/Paket/B",71.48
+81,"Prov. Maluku",2010,"SD/MI/Paket/A",95000
+81,"Prov. Maluku",2010,"SM/SMK/MA/Paket/C",59.8
+81,"Prov. Maluku",2010,"SMP/Mts/Paket/B",71.88
+81,"Prov. Maluku",2011,"SD/MI/Paket/A",88000
+81,"Prov. Maluku",2011,"SM/SMK/MA/Paket/C",52.64
+81,"Prov. Maluku",2011,"SMP/Mts/Paket/B",64.33
+81,"Prov. Maluku",2012,"SD/MI/Paket/A",90.21
+81,"Prov. Maluku",2012,"SM/SMK/MA/Paket/C",49.79
+81,"Prov. Maluku",2012,"SMP/Mts/Paket/B",65.81
+82,"Prov. Maluku Utara",2003,"SD/MI",94.06
+82,"Prov. Maluku Utara",2003,"SM/MA",38.7
+82,"Prov. Maluku Utara",2003,"SMP/Mts",62.15
+82,"Prov. Maluku Utara",2004,"SD/MI",93.8
+82,"Prov. Maluku Utara",2004,"SM/MA",44.08
+82,"Prov. Maluku Utara",2004,"SMP/Mts",64.17
+82,"Prov. Maluku Utara",2005,"SD/MI",93.44
+82,"Prov. Maluku Utara",2005,"SM/MA",52.65
+82,"Prov. Maluku Utara",2005,"SMP/Mts",61000
+82,"Prov. Maluku Utara",2006,"SD/MI",93.1
+82,"Prov. Maluku Utara",2006,"SM/MA",48.66
+82,"Prov. Maluku Utara",2006,"SMP/Mts",65.31
+82,"Prov. Maluku Utara",2007,"SD/MI/Paket/A",91.95
+82,"Prov. Maluku Utara",2007,"SM/SMK/MA/Paket/C",51.39
+82,"Prov. Maluku Utara",2007,"SMP/Mts/Paket/B",64.67
+82,"Prov. Maluku Utara",2008,"SD/MI/Paket/A",92.47
+82,"Prov. Maluku Utara",2008,"SM/SMK/MA/Paket/C",51.73
+82,"Prov. Maluku Utara",2008,"SMP/Mts/Paket/B",65.13
+82,"Prov. Maluku Utara",2009,"SD/MI/Paket/A",93.39
+82,"Prov. Maluku Utara",2009,"SM/SMK/MA/Paket/C",51.74
+82,"Prov. Maluku Utara",2009,"SMP/Mts/Paket/B",65.49
+82,"Prov. Maluku Utara",2010,"SD/MI/Paket/A",93.97
+82,"Prov. Maluku Utara",2010,"SM/SMK/MA/Paket/C",52.68
+82,"Prov. Maluku Utara",2010,"SMP/Mts/Paket/B",66.01
+82,"Prov. Maluku Utara",2011,"SD/MI/Paket/A",89.95
+82,"Prov. Maluku Utara",2011,"SM/SMK/MA/Paket/C",51.88
+82,"Prov. Maluku Utara",2011,"SMP/Mts/Paket/B",65.92
+82,"Prov. Maluku Utara",2012,"SD/MI/Paket/A",92.65
+82,"Prov. Maluku Utara",2012,"SM/SMK/MA/Paket/C",56.82
+82,"Prov. Maluku Utara",2012,"SMP/Mts/Paket/B",64.33
+91,"Prov. Papua Barat",2003,"SD/MI",
+91,"Prov. Papua Barat",2003,"SM/MA",
+91,"Prov. Papua Barat",2003,"SMP/Mts",
+91,"Prov. Papua Barat",2004,"SD/MI",
+91,"Prov. Papua Barat",2004,"SM/MA",
+91,"Prov. Papua Barat",2004,"SMP/Mts",
+91,"Prov. Papua Barat",2005,"SD/MI",
+91,"Prov. Papua Barat",2005,"SM/MA",
+91,"Prov. Papua Barat",2005,"SMP/Mts",
+91,"Prov. Papua Barat",2006,"SD/MI",88.16
+91,"Prov. Papua Barat",2006,"SM/MA",35.31
+91,"Prov. Papua Barat",2006,"SMP/Mts",53.94
+91,"Prov. Papua Barat",2007,"SD/MI/Paket/A",90.67
+91,"Prov. Papua Barat",2007,"SM/SMK/MA/Paket/C",43.16
+91,"Prov. Papua Barat",2007,"SMP/Mts/Paket/B",48.76
+91,"Prov. Papua Barat",2008,"SD/MI/Paket/A",90.76
+91,"Prov. Papua Barat",2008,"SM/SMK/MA/Paket/C",43.74
+91,"Prov. Papua Barat",2008,"SMP/Mts/Paket/B",48.98
+91,"Prov. Papua Barat",2009,"SD/MI/Paket/A",91.25
+91,"Prov. Papua Barat",2009,"SM/SMK/MA/Paket/C",43.55
+91,"Prov. Papua Barat",2009,"SMP/Mts/Paket/B",49.03
+91,"Prov. Papua Barat",2010,"SD/MI/Paket/A",92.29
+91,"Prov. Papua Barat",2010,"SM/SMK/MA/Paket/C",44.75
+91,"Prov. Papua Barat",2010,"SMP/Mts/Paket/B",50.1
+91,"Prov. Papua Barat",2011,"SD/MI/Paket/A",88.28
+91,"Prov. Papua Barat",2011,"SM/SMK/MA/Paket/C",47.88
+91,"Prov. Papua Barat",2011,"SMP/Mts/Paket/B",57.66
+91,"Prov. Papua Barat",2012,"SD/MI/Paket/A",88.97
+91,"Prov. Papua Barat",2012,"SM/SMK/MA/Paket/C",46.46
+91,"Prov. Papua Barat",2012,"SMP/Mts/Paket/B",59.76
+94,"Prov. Papua",2003,"SD/MI",83.86
+94,"Prov. Papua",2003,"SM/MA",
+94,"Prov. Papua",2003,"SMP/Mts",47.81
+94,"Prov. Papua",2004,"SD/MI",85.21
+94,"Prov. Papua",2004,"SM/MA",30.39
+94,"Prov. Papua",2004,"SMP/Mts",47.78
+94,"Prov. Papua",2005,"SD/MI",81.05
+94,"Prov. Papua",2005,"SM/MA",40.49
+94,"Prov. Papua",2005,"SMP/Mts",44.95
+94,"Prov. Papua",2006,"SD/MI",78.11
+94,"Prov. Papua",2006,"SM/MA",33.36
+94,"Prov. Papua",2006,"SMP/Mts",47.36
+94,"Prov. Papua",2007,"SD/MI/Paket/A",80.94
+94,"Prov. Papua",2007,"SM/SMK/MA/Paket/C",35.78
+94,"Prov. Papua",2007,"SMP/Mts/Paket/B",48.69
+94,"Prov. Papua",2008,"SD/MI/Paket/A",81.76
+94,"Prov. Papua",2008,"SM/SMK/MA/Paket/C",35.79
+94,"Prov. Papua",2008,"SMP/Mts/Paket/B",48.95
+94,"Prov. Papua",2009,"SD/MI/Paket/A",76.09
+94,"Prov. Papua",2009,"SM/SMK/MA/Paket/C",35.77
+94,"Prov. Papua",2009,"SMP/Mts/Paket/B",49.08
+94,"Prov. Papua",2010,"SD/MI/Paket/A",76.22
+94,"Prov. Papua",2010,"SM/SMK/MA/Paket/C",36.06
+94,"Prov. Papua",2010,"SMP/Mts/Paket/B",49.62
+94,"Prov. Papua",2011,"SD/MI/Paket/A",70.13
+94,"Prov. Papua",2011,"SM/SMK/MA/Paket/C",32.45
+94,"Prov. Papua",2011,"SMP/Mts/Paket/B",46.03
+94,"Prov. Papua",2012,"SD/MI/Paket/A",70.79
+94,"Prov. Papua",2012,"SM/SMK/MA/Paket/C",30.05
+94,"Prov. Papua",2012,"SMP/Mts/Paket/B",43.38
