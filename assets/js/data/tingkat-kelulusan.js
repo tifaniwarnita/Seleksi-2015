@@ -45,6 +45,7 @@ $(function () {
         },
         yAxis: {
             min: 0,
+            max:100,
             title: {
                 text: 'Tingkat Kelulusan'
             },
