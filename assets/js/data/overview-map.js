@@ -76,17 +76,43 @@ $(function () {
             data : IPM,
             mapData: Highcharts.maps['countries/id/id-all'],
             joinBy: ['hc-key','kode_provinsi'],
-            name: 'Random data',
-            states: {
-                hover: {
-                    color: '#FFAD6E'
-                }
-            },
-            dataLabels: {
-                enabled: false,
-                format: '{point.nama_provinsi}'
-            }
-        }]
+            name: 'peta',
+            showInLegend: false,
+            events: {
+                        click: function (e) {
+
+                        window.chart = new Highcharts.Chart({
+                            chart: {
+                                type: 'pie',
+                                width: 370,
+                                height: 240
+                            },
+                            title: {
+                                text: null
+                            },
+                            series: [{
+                                name: 'Votes',
+                                data: [{
+                                    name: 'Obama',
+                                    color: '#0200D0',
+                                    y: parseInt(columns[3][row], 10)
+                                }, {
+                                    name: 'McCain',
+                                    color: '#C40401',
+                                    y: parseInt(columns[4][row], 10)
+                                }],
+                                dataLabels: {
+                                    format: '<b>{point.name}</b> {point.percentage:.1f}%'
+                                }
+                            }]
+                        });
+                        }
+                    }
+        }/*, {
+            type: 'mappoint',
+            name: 'Cities',
+            data: IPMCities,
+        }*/]
 	});
      chart = $('#overview-map').highcharts();
 });
