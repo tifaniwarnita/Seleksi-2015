@@ -117,10 +117,6 @@ $(function () {
             /*events: {
                         click: pointClick
                     }*/
-        }, {
-            type: 'mappoint',
-            name: 'Cities',
-            data: IPMCities,
         }]
 	});
      chart = $('#overview-map').highcharts();
