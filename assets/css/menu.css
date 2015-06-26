@@ -103,9 +103,9 @@ body{
 #navigationMenu .portfolio { background-position:-114px 0;}
 #navigationMenu .portfolio:hover{ background-position:-114px -39px;}
 #navigationMenu .portfolio span{
-	background-color:#d0a525;
-	color:#604e18;
-	text-shadow:1px 1px 0 #d8b54b;
+	background-color:#F7B892;
+	color:#84716B;
+	/*text-shadow:1px 1px 0 #d8b54b;*/
 }
 
 /* Purple Button */
