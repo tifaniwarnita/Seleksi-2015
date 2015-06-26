@@ -21,7 +21,7 @@ $(function () {
             type: 'column'
         },
         title: {
-            text: 'Tingkat Partisipasi Masyarakat Indonesia'
+            text: 'Angka Partisipasi Masyarakat Indonesia'
         },
         xAxis: {
             categories: ['Aceh','Sumut','Sumbar','Riau','Jambi','Sumsel','Bengkulu','Lampung','Babel','Riau','Jakarta','Jabar','Jateng','Yogyakarta','Jatim','Banten','Bali','NTB','NTT','Kalbar','Kalteng','Kalsel','Kaltim','Sulut','Sulteng','Sulsel','Sultra','Gorontalo','Sulbar','Maluku','Malut','Pabar','Papua'],
@@ -32,7 +32,7 @@ $(function () {
         yAxis: {
             min: 0,
             title: {
-                text: 'Tingkat Partisipasi'
+                text: 'Angka Partisipasi'
             },
             labels: {
                 overflow: 'justify'
