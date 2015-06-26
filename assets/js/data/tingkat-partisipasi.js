@@ -2,17 +2,17 @@ $(function () {
 
     var val_partisipasisd = [];
     $.each(partisipasiSD, function(i,v){
-        val_partisipasisd.push(v.persen_partisipasi_murni_sd*100);
+        val_partisipasisd.push(v.persen_partisipasi_murni_sd);
     });
 
     var val_partisipasismp = [];
     $.each(partisipasiSMP, function(i,v){
-        val_partisipasismp.push(v.persen_partisipasi_murni_smp*100);
+        val_partisipasismp.push(v.persen_partisipasi_murni_smp);
     });
 
     var val_partisipasisma = [];
     $.each(partisipasiSMA, function(i,v){
-        val_partisipasisma.push(v.persen_partisipasi_murni_sma*100);
+        val_partisipasisma.push(v.persen_partisipasi_murni_sma);
     });
 
 
@@ -39,7 +39,7 @@ $(function () {
             }
         },
         tooltip: {
-            valueSuffix: ' orang'
+            valueSuffix: ' %'
         },
         legend: {
             layout: 'vertical',
