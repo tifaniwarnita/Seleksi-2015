@@ -1,5 +1,5 @@
 $(function () {
-	parisipasiSMA = [
+	partisipasiSMA = [
 		{
 			"kode_provinsi":"id-ac",
 			"nama_provinsi":"Prov. Nanggroe Aceh Darussalam",

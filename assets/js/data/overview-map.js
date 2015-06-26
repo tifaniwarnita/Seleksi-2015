@@ -1,5 +1,41 @@
 $(function () {
 	//Instanciate the map
+    /*function pointClick() {
+                    $div = $('<div></div>')
+                        .dialog({
+                            title: this.nama_provinsi,
+                            width: 400,
+                            height: 300
+                        });
+
+                window.chart = new Highcharts.Chart({
+                    chart: {
+                        renderTo: $div[0],
+                        type: 'pie',
+                        width: 370,
+                        height: 240
+                    },
+                    title: {
+                        text: null
+                    },
+                    series: [{
+                        name: 'Votes',
+                        data: [{
+                            name: 'Obama',
+                            color: '#0200D0',
+                            y: parseInt(columns[3][row], 10)
+                        }, {
+                            name: 'McCain',
+                            color: '#C40401',
+                            y: parseInt(columns[4][row], 10)
+                        }],
+                        dataLabels: {
+                            format: '<b>{point.name}</b> {point.percentage:.1f}%'
+                        }
+                    }]
+                });
+            }*/
+
 	$('#overview-map').highcharts('Map', {
 		chart: {
 			animation: true,
@@ -78,41 +114,14 @@ $(function () {
             joinBy: ['hc-key','kode_provinsi'],
             name: 'peta',
             showInLegend: false,
-            events: {
-                        click: function (e) {
-
-                        window.chart = new Highcharts.Chart({
-                            chart: {
-                                type: 'pie',
-                                width: 370,
-                                height: 240
-                            },
-                            title: {
-                                text: null
-                            },
-                            series: [{
-                                name: 'Votes',
-                                data: [{
-                                    name: 'Obama',
-                                    color: '#0200D0',
-                                    y: parseInt(columns[3][row], 10)
-                                }, {
-                                    name: 'McCain',
-                                    color: '#C40401',
-                                    y: parseInt(columns[4][row], 10)
-                                }],
-                                dataLabels: {
-                                    format: '<b>{point.name}</b> {point.percentage:.1f}%'
-                                }
-                            }]
-                        });
-                        }
-                    }
-        }/*, {
+            /*events: {
+                        click: pointClick
+                    }*/
+        }, {
             type: 'mappoint',
             name: 'Cities',
             data: IPMCities,
-        }*/]
+        }]
 	});
      chart = $('#overview-map').highcharts();
 });
