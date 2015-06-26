@@ -12,19 +12,13 @@ $(function () {
 			text: 'IPM di Indonesia pada tahun 2010'
 		},
 
-		mapNavigation: {
-            enabled: true,
-            buttonOptions: {
-                verticalAlign: 'bottom'
-            }
-        },
-
 		/* colors: ['rgba(19,64,117,0.05)', 'rgba(19,64,117,0.2)', 'rgba(19,64,117,0.4)',
             'rgba(19,64,117,0.5)', 'rgba(19,64,117,0.6)', 'rgba(19,64,117,0.8)', 'rgba(19,64,117,1)'], */
 
-        colors: ['rgb(255,237,238)', 'rgb(247,173,175)', 'rgb(230,85,90)', 'rgb(153,50,54)'],
+        colors: ['rgb(255,237,238)', 'rgb(245,157,160)', 'rgb(219,81,85)', 'rgb(230,85,90)', 'rgb(153,50,54)', 'rgb(56,8,10)'],
 
         colorAxis: {
+            dataClassColor: 'category',
             dataClasses: [{
                 to: 66
             }, {
@@ -37,25 +31,29 @@ $(function () {
                 from: 70,
                 to: 72
             }, {
-                from:72
+                from: 72,
+                to: 74
+            }, {
+                from:74
             }]
         },
 
+        exporting: {
+            enabled: false,
+            buttons: { 
+                exportButton: {
+                    enabled:false
+                },
+                printButton: {
+                    enabled:false
+                }
+
+            }
+        },
         tooltip: {
             formatter: function () {
                 return this.point.nama_provinsi + '<br>IPM: ' + this.point.value + '%';
-            },
-            crosshairs: [{
-                zIndex: 5,
-                dashStyle: 'dot',
-                snap: false,
-                color: 'gray'
-            }, {
-                zIndex: 5,
-                dashStyle: 'dot',
-                snap: false,
-                color: 'gray'
-            }],
+            }
         },
 
 		plotOptions: {
@@ -67,8 +65,9 @@ $(function () {
 					format: '{point.nama_provinsi}',
 					style: {
 						fontWeight: 'bold'
-					}
+				    }
                 },
+                nullColor: 'white'
 			}
 		},
 

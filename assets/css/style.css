@@ -161,7 +161,20 @@
     transform: translateY(-50%);
 }
 #overview {
-    color: #FFFFFF; 
     font-size: 1.5vw;
     font-family: "Dosis";
+}
+.not-full-fill {
+    width: 93%;
+    height: 70vh;
+    background-color: #FFFFFF;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    margin-top: 2%;
+
 }

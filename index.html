@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,7 +27,6 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
 </head>
 
 <body class="loading">
@@ -58,10 +56,10 @@
 		            <div class="item active">
 		                <!-- Set the first background image using inline CSS below. -->
 		                <div class="fill">
-		                	<div class="container opening-content opening-1" data-0="background-color: rgb(196,94,94);" data-end="background-color: rgb(0,0,0);">
+		                	<div class="container opening-content opening-1" data-center="background-color: rgb(196,94,94);" data-400="background-color: rgb(0,0,0);">
 								<div class="row">
 									<div class="col-md-6">
-										<div class="picture">
+										<div id="pic" class="picture" data-0="opacity:1;" data-400="opacity:0;" data-anchor-target="#pic">
 											<img src="assets/img/girl-boy-elementary.png" alt="girl-boy-elementary" height="359" width="555">
 										</div>
 									</div>
@@ -83,10 +81,10 @@
 
 		            <div class="item">
 		               	<div class="fill">
-		                	<div class="container opening-content opening-2" data-0="background-color: rgb(95,139,196);" data-end="background-color: rgb(0,0,0);">
+		                	<div class="container opening-content opening-2" data-0="background-color: rgb(95,139,196);" data-400="background-color: rgb(0,0,0);">
 								<div class="row">
 									<div class="col-md-6">
-										<div class="picture">
+										<div id="pic" class="picture" data-center="opacity:1;" data-400="opacity:0;" data-anchor-target="#pic">
 											<img src="assets/img/girl-boy-junior-high-school.png" alt="girl-boy-junior-high" height="359" width="518">
 										</div>
 									</div>
@@ -108,10 +106,10 @@
 
 		            <div class="item">
 		                <div class="fill">
-		                	<div class="container opening-content opening-3" data-0="background-color: rgb(120,196,159);" data-end="background-color: rgb(0,0,0);">
+		                	<div class="container opening-content opening-3" data-0="background-color: rgb(120,196,159);" data-400="background-color: rgb(0,0,0);">
 								<div class="row">
 									<div class="col-md-6">
-										<div class="picture">
+										<div id="pic" class="picture" data-center="opacity:1;" data-400="opacity:0;" data-anchor-target="#pic">
 											<img src="assets/img/girl-boy-senior-high-school.png" alt="girl-boy-senior-high" height="390" width="484">
 										</div>
 										<br>
@@ -147,7 +145,7 @@
 		        </div>
 		    </div>
 
-		    <div id="overview" class="fill dark-purple">	
+		    <div id="overview" class="fill dark-purple" >
 		    <br>
 		    	<div id="overview-map" style="height: 300px; min-width: 310px; max-width: 800px; margin: 0 auto;" data-center="opacity: 1" data-300="opacity: 0" data-anchor-target="#overview-map"></div>
 		    	<br>
@@ -186,18 +184,57 @@
 		<div id="about" class="fill green">
 
 		KUCINGKUCINGKUCINGGGGGG
-		<br>
-		<h2>DISINI DIISI ABOUT NANTINYA</h2>
-		<br>
-		<br>
-		<br>	
-			
-		</div>
+			<br>
+			<h2>DISINI DIISI ABOUT NANTINYA</h2>
+			<br>
+			<br>
+			<br>	
+				
+			</div>
 
 		<div class="fill blue">
 			<br>
-			<div id="barchart">
+			<div id="tab-content" class="not-full-fill">
+				<div class="tab-pane fade in active" id="New">
+					<br>
+					<br>
+					<div>
+						you would never ask me why, my heart is so disguised, i just can't live a lie anymore~~~~~
+				  	</div>
+				  	<br>
+					KUCING TERBANG
+			    </div>
+
+			    <div class="tab-pane fade in active" id="Read">
+					<br>
+					<br>
+					<div>
+						i can see the pain living in your eyes~~~~~
+				  	</div>
+				  	<br>
+					MEONG MEONG
+			    </div>
+
+				<div class="tab-pane fade in active" id="Upcoming">
+					<br>
+					<br>
+					<div>
+						you would never ask me why, my heart is so disguised, i just can't live a lie anymore~~~~~
+				  	</div>
+				  	<br>
+					MIAWMIAW
+			    </div>
+ 	
 			</div>
+				
+			<br><br>
+
+			<ul class="nav nav-tabs" style="width:778px; background-color:white;">
+				<li class="nav active"><a href="#New" data-toggle="tab">New Task</a></li>
+				<li class="nav"><a href="#Read" data-toggle="tab">Read All Task</a></li>
+				<li class="nav"><a href="#Upcoming" data-toggle="tab">Upcoming Task</a></li>
+			</ul>
+
 		</div>
 
 
