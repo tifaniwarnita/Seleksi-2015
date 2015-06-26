@@ -1,5 +1,13 @@
 IPM(Indeks Pembangunan Manusia) menentukan tingkat kemakmuran manusia di daerah tersebut. Salah satu faktor yang berpengaruh kepada angka IPM adalah kualitas pendidikan. Semakin tinggi angka IPM suatu daerah maka semakin makmur daerah tersebut.
 
+Angka partisipasi merepresentasikan kemudahan dalam mengakses fasilitas pendidikan. Semakin tinggi angka partisipasi pada suatu kategori di suatu daerah semakin banyak masyarakat di daerah tersebut mendapatkan akses ke kategori pendidikan tersebut.
+
+Angka melek huruf menyatakan kebalikan dari angka buta huruf yaitu banyaknya masyarakat yang dapat membaca dan menulis.
+
+Tingkat kelulusan melambangkan banyaknya masyarakat dengan kelulusan terakhir pada suatu jenjang pendidikan.
+quotes : You have to leave the city of your comfort and go into the wilderness of your intuition. You can't get there by bus, only by hard work and risk and by not quite knowing what you're doing, but what you'll discover will be wonderful. What you'll discover will be yourself.
+
+closing :
 A man's life is dull.
 A man's life is desperate.
 A man's life is worthless.
